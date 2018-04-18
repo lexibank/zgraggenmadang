@@ -13,15 +13,16 @@ setup(
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
-    py_modules=['lexibank_zgraggenmadang'],
+    py_modules=['lexibank_zgraggenmadang', 'plugin'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
             'zgraggenmadang=lexibank_zgraggenmadang:Dataset',
-        ]
+        ],
     },
     install_requires=[
         'pylexibank',
-    ]
+    ],
+    extras_require={'test': 'pytest-cldf'}
 )

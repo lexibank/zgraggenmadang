@@ -20,6 +20,8 @@ class Dataset(BaseDataset):
         # read raw contents and build dictionary for lingpy's wl
         wl_data = {}
         header = True
+        log = kw['log']
+        log.info('building wordlist ...')
         for idx, row in enumerate(self.raw.read_tsv('madang.csv')):
             # get fields for the entry, correcting it if necessary
             _, doculect, concept, counterpart = row
@@ -47,16 +49,22 @@ class Dataset(BaseDataset):
             # add to wordlist data
             wl_data[idx] = [_, doculect, concept, counterpart, tokens]
 
+        log.info('... data assembled ...')
+
         # build lingpy wordlist and check cognancy; the parameters
         # are from Mattis internal notes, an alternative is lexstat with the
         # (also high) threshold of 0.8
         wl = lingpy.Wordlist(wl_data, row='concept', col='doculect')
+        log.info('... Wordlist initialized ...')
         lex = lingpy.LexStat(wl, segments='tokens', check=True, apply_checks=True, cldf=True)
+        log.info('... LexStat initialized ...')
         if USE_LEXSTAT:
             lex.cluster(method='sca', threshold=0.5)
+        log.info('... done')
 
         # build CLDF data
         with self.cldf as ds:
+            ds.add_sources(*self.raw.read_bib())
             # add languages, and build dictionary of sources
             lang_source = {}
             for language in self.languages:
