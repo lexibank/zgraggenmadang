@@ -1,17 +1,17 @@
 # coding=utf-8
 from __future__ import unicode_literals, print_function
+import re
 
+import lingpy
 from clldutils.path import Path
 from pylexibank.dataset import Metadata
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.lingpy_util import getEvoBibAsBibtex
-
-import re
-import lingpy
+from pylexibank.util import getEvoBibAsBibtex
 
 # Whether to use lexstat to cluster cognates (allowing to
 # align them)
 USE_LEXSTAT = False
+
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
@@ -44,7 +44,7 @@ class Dataset(BaseDataset):
                 counterpart = re.sub(r'\s+', ' ', counterpart).strip()
 
                 # tokenize
-                tokens = self._tokenizer('IPA', counterpart)
+                tokens = self.tokenizer(None, counterpart, column='IPA')
 
             # add to wordlist data
             wl_data[idx] = [_, doculect, concept, counterpart, tokens]
@@ -71,8 +71,8 @@ class Dataset(BaseDataset):
                 # add to the dataset
                 ds.add_language(
                     ID=language['NAME'],
-                    glottocode=language['GLOTTOCODE'],
-                    name=language['GLOTTOLOG_NAME'],
+                    Glottocode=language['GLOTTOCODE'],
+                    Name=language['GLOTTOLOG_NAME'],
                 )
 
                 # add to language source (used when adding lexemes)
@@ -85,8 +85,8 @@ class Dataset(BaseDataset):
             for concept in self.concepts:
                 ds.add_concept(
                     ID=concept['ENGLISH'],
-                    conceptset=concept['CONCEPTICON_ID'],
-                    gloss=concept['CONCEPTICON_GLOSS'],
+                    Concepticon_ID=concept['CONCEPTICON_ID'],
+                    Name=concept['CONCEPTICON_GLOSS'],
                 )
 
             # add lexemes
@@ -119,14 +119,14 @@ class Dataset(BaseDataset):
                                 ds.add_cognate(
                                     lexeme=row,
                                     Cognateset_ID='%s-%s' % (concept, cogid),
-                                    Cognate_source='List2014e',
-                                    Alignment_source='List2014e')
+                                    Source=['List2014e'],
+                                    Alignment_Source='List2014e')
                             else:
                                 ds.add_cognate(
                                     lexeme=row,
                                     Cognateset_ID='%s-%s' % (concept, cogid),
-                                    Cognate_source=None,
-                                    Alignment_source=None)
+                                    Source=[],
+                                    Alignment_Source=None)
 
             if USE_LEXSTAT:
                 ds.align_cognates()

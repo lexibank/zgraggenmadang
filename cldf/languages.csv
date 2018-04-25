@@ -1,4 +1,4 @@
-ID,name,glottocode,glottolog_name,iso,macroarea,family
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Family
 amaimon,Amaimon,amai1246,,,,
 amele,Amele,amel1241,,,,
 anam,Anam,anam1247,,,,
@@ -35,8 +35,8 @@ kobol,Kobol,kobo1248,,,,
 korak,Korak,kora1296,,,,
 kowaki,Kowaki,kowa1245,,,,
 lemio,Lemio,lemi1243,,,,
-maiapila,Pila,pila1246,,,,
-maiasaki,Saki,sali1249,,,,
+maia-pila,Pila,pila1246,,,,
+maia-saki,Saki,sali1249,,,,
 mala,Mala (Papua New Guinea),mala1494,,,,
 malas,Malas,mala1495,,,,
 male,Male (Papua New Guinea),male1291,,,,
