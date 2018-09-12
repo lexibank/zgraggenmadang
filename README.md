@@ -18,15 +18,10 @@ Conceptlist in Concepticon: [Zgraggen-1980-380](http://concepticon.clld.org/cont
 
 - **Varieties:** 100
 - **Concepts:** 336
-- **Lexemes:** 34,279
+- **Lexemes:** 34,313
 - **Synonymy:** 1.12
-- **Cognacy:** 34,279 cognates in 336 cognate sets
+- **Cognacy:** 34,313 cognates in 336 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 154,565
-- **Segments:** 159 (12 BIPA errors, 14 CTLS sound class errors, 198 CLTS modified)
-- **Inventory size (avg):** 40.06
-
-## Possible Improvements:
-
-- Entries missing concepts: 0/34279 (0.00%)
-
+- **Tokens:** 154,727
+- **Segments:** 159 (12 BIPA errors, 14 CTLS sound class errors, 147 CLTS modified)
+- **Inventory size (avg):** 39.97

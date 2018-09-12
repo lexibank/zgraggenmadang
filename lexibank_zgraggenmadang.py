@@ -2,10 +2,11 @@
 from __future__ import unicode_literals, print_function
 import re
 
+import attr
 import lingpy
 from clldutils.path import Path
 from pylexibank.dataset import Metadata
-from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.dataset import Dataset as BaseDataset, Language
 from pylexibank.util import getEvoBibAsBibtex
 
 # Whether to use lexstat to cluster cognates (allowing to
@@ -13,8 +14,15 @@ from pylexibank.util import getEvoBibAsBibtex
 USE_LEXSTAT = False
 
 
+@attr.s
+class Variety(Language):
+    Source = attr.ib(default=None)
+
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
+    id = 'zgraggenmadang'
+    language_class = Variety
 
     def cmd_install(self, **kw):
         # read raw contents and build dictionary for lingpy's wl
@@ -64,19 +72,10 @@ class Dataset(BaseDataset):
 
         # build CLDF data
         with self.cldf as ds:
-            ds.add_sources(*self.raw.read_bib())
+            ds.add_sources()
             # add languages, and build dictionary of sources
-            lang_source = {}
-            for language in self.languages:
-                # add to the dataset
-                ds.add_language(
-                    ID=language['NAME'],
-                    Glottocode=language['GLOTTOCODE'],
-                    Name=language['GLOTTOLOG_NAME'],
-                )
-
-                # add to language source (used when adding lexemes)
-                lang_source[language['NAME']] = language['SOURCE']
+            ds.add_languages(id_factory=lambda l: l['Name'])
+            lang_source = {l['Name']: l['Source'] for l in self.languages}
 
             # add concepts; the set for this dataset is actually
             # a bit different from the Z'graggen list that was
