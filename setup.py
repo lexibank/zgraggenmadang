@@ -22,8 +22,7 @@ setup(
         ],
     },
     install_requires=[
-        'attrs>=18.2',
         'pylexibank>=0.12.0',
     ],
-    extras_require={'test': 'pytest-cldf'}
+    extras_require={'test': 'pytest-cldf>=0.2'}
 )
