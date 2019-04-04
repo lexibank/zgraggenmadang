@@ -2,7 +2,9 @@
     "@context": "http://www.w3.org/ns/csvw",
     "dc:bibliographicCitation": "Z'graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics. and others from the same author.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:format": "http://concepticon.clld.org/contributions/Zgraggen-1980-380",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Zgraggen-1980-380"
+    ],
     "dc:source": "sources.bib",
     "dc:title": "Z'graggen Madang",
     "dcat:accessURL": "https://github.com/lexibank/zgraggenmadang",
@@ -15,15 +17,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.3.2",
-                "concepticon_version": "pyconcepticon-1.4.0-42-g46b0e60"
+                "glottolog_version": "v3.4-1-g07a9b54",
+                "concepticon_version": "pyconcepticon-1.4.0-179-gd46adad"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 34313,
+            "dc:extent": 34420,
             "tableSchema": {
                 "columns": [
                     {
@@ -50,7 +52,7 @@
                     },
                     {
                         "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
@@ -152,6 +154,26 @@
                         "name": "Macroarea"
                     },
                     {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Family"
                     },
@@ -200,7 +222,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 34313,
+            "dc:extent": 0,
             "tableSchema": {
                 "columns": [
                     {
