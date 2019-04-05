@@ -23,6 +23,6 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.13
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 167,949
-- **Segments:** 153 (0 BIPA errors, 0 CTLS sound class errors, 153 CLTS modified)
-- **Inventory size (avg):** 39.96
+- **Tokens:** 168,052
+- **Segments:** 150 (0 BIPA errors, 0 CTLS sound class errors, 150 CLTS modified)
+- **Inventory size (avg):** 40.02

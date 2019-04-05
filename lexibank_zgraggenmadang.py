@@ -3,7 +3,6 @@ from __future__ import unicode_literals, print_function
 import re
 
 import attr
-import lingpy
 from clldutils.path import Path
 from pylexibank.dataset import Metadata
 from clldutils.misc import slug
@@ -22,41 +21,30 @@ class Dataset(BaseDataset):
     language_class = Variety
 
     def cmd_install(self, **kw):
-        # read raw contents and build dictionary for lingpy's wl
-        wl_data = {}
-        header = True
+        #wl_data = {}
+        wl_data = []
         log = kw['log']
         log.info('building wordlist ...')
         for idx, row in enumerate(self.raw.read_tsv('madang.csv')):
-            # get fields for the entry, correcting it if necessary
-            _, doculect, concept, counterpart = row
-            if counterpart in self.lexemes:
-                counterpart = self.lexemes[counterpart]
+            if idx > 1:
+                # get fields for the entry, correcting it if necessary
+                _, doculect, concept, counterpart = row
+                if counterpart in self.lexemes:
+                    counterpart = self.lexemes[counterpart]
 
-            # correct fields if necessary; we add the 'TOKEN' column
-            # header (missing from madang.csv) here
-            if header:
-                tokens = 'TOKENS'
-                header = False
-            else:
-                counterpart = re.sub(r'(.*)(\s\(.*\))$', r'\1', counterpart)
-
-                # correct multiple spaces and strip leading&trailing ones
-                counterpart = re.sub(r'\s+', ' ', counterpart).strip()
-
-                # tokenize
-                tokens = self.tokenizer(None, counterpart, column='IPA')
-
-            # add to wordlist data
-            wl_data[idx] = [_, doculect, concept, counterpart, tokens]
+                # add to wordlist data
+                wl_data.append({
+                    'doculect' : doculect,
+                    'concept' : concept,
+                    'counterpart' : counterpart,
+                })
 
         log.info('... data assembled ...')
-
-        wl = lingpy.Wordlist(wl_data, row='concept', col='doculect')
 
         # build CLDF data
         with self.cldf as ds:
             ds.add_sources()
+
             # add languages, and build dictionary of sources
             ds.add_languages(id_factory=lambda l: l['Name'])
             lang_source = {l['Name']: l['Source'] for l in self.languages}
@@ -67,6 +55,7 @@ class Dataset(BaseDataset):
                         Concepticon_ID=concept['CONCEPTICON_ID'],
                         Name=concept['ENGLISH']
                         )
+
             for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
                     ID=slug(concept.english),
@@ -75,22 +64,14 @@ class Dataset(BaseDataset):
                 )
 
             # add lexemes
-            for concept in pb(wl.rows, desc='cldfify'):
-                for doculect, value in wl.get_dict(row=concept).items():
-                    for idx in value:
-                        # Get data from `wl_data` and skip over
-                        # empty entries
-                        row = wl_data[idx]
-                        value, segments = row[-2], row[-1]
-                        if segments:
-                            # add the lexeme
-                            ds.add_lexemes(
-                                    Language_ID=doculect,
-                                    Parameter_ID=slug(concept),
-                                    Value=value,
-                                    Segments=segments,
-                                    Source=lang_source[doculect],
-                                )
+            for row in wl_data:
+                ds.add_lexemes(
+                    Language_ID=row['doculect'],
+                    Parameter_ID=slug(row['concept']),
+                    Value=row['counterpart'],
+                    Source=lang_source[row['doculect']],
+                )
+
 
     def cmd_download(self, **kw):
         if not self.raw.exists():
