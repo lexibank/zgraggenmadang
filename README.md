@@ -21,7 +21,6 @@ Conceptlists in Concepticon:
 - **Concepts:** 336
 - **Lexemes:** 34,432
 - **Synonymy:** 1.13
-- **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 168,052
 - **Segments:** 150 (0 BIPA errors, 0 CTLS sound class errors, 150 CLTS modified)
