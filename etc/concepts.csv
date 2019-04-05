@@ -1,0 +1,337 @@
+NUMBER,ID,ENGLISH,CONCEPTICON_ID,CONCEPTICON_GLOSS
+1,Zgraggen-1980-380-375,afraid,3033,SCARED
+2,Zgraggen-1980-380-270,afternoon,1807,AFTERNOON
+3,Zgraggen-1980-380-280,afterwards,2093,AFTERWARDS
+4,Zgraggen-1980-380-4,all,98,ALL
+5,Zgraggen-1980-380-293,always,1676,ALWAYS
+6,Zgraggen-1980-380-55,arm,1673,ARM
+7,Zgraggen-1980-380-59,armpit,1886,ARMPIT
+8,Zgraggen-1980-380-196a,arrow,977,ARROW
+9,Zgraggen-1980-380-196b,arrow-barred,,
+10,Zgraggen-1980-380-196c,arrow-hooked,,
+11,Zgraggen-1980-380-196d,arrow-pronged,,
+12,Zgraggen-1980-380-164,ashes,646,ASH
+13,Zgraggen-1980-380-198a,axe,,
+14,Zgraggen-1980-380-198b,axe-iron,677,AXE
+15,Zgraggen-1980-380-53,back,1291,BACK
+16,Zgraggen-1980-380-221,bad,1292,BAD
+17,Zgraggen-1980-380-158,bamboo,1927,BAMBOO
+18,Zgraggen-1980-380-127,banana,868,BANANA
+19,Zgraggen-1980-380-214,basket,1539,BASKET
+20,Zgraggen-1980-380-159,bean,832,BEAN
+21,Zgraggen-1980-380-277,before,1882,BEFORE
+22,Zgraggen-1980-380-72,belly,1251,BELLY
+23,Zgraggen-1980-380-128,betelnut,217,BETELNUT
+24,Zgraggen-1980-380-129,betelpepper,177,BETEL PEPPER VINE
+25,Zgraggen-1980-380-224,big,1202,BIG
+26,Zgraggen-1980-380-96,bird,937,BIRD
+27,Zgraggen-1980-380-226,black,163,BLACK
+28,Zgraggen-1980-380-78,blood,946,BLOOD
+29,Zgraggen-1980-380-84,bone,1394,BONE
+30,Zgraggen-1980-380-199,bow,994,BOW
+31,Zgraggen-1980-380-200,bowstring,2119,BOW STRING
+32,Zgraggen-1980-380-9,boy,1366,BOY
+33,Zgraggen-1980-380-35,brains,1583,BRAIN
+34,Zgraggen-1980-380-74,breast,1402,BREAST
+35,Zgraggen-1980-380-126,butterfly,1791,BUTTERFLY
+36,Zgraggen-1980-380-54,buttocks,834,BUTTOCKS
+37,Zgraggen-1980-380-70,calf,498,CALF OF LEG
+38,Zgraggen-1980-380-156,cane,,
+39,Zgraggen-1980-380-101,cassowary,466,CASSOWARY
+40,Zgraggen-1980-380-75,chest,1592,CHEST
+41,Zgraggen-1980-380-102,chicken-tame,1318,CHICKEN
+42,Zgraggen-1980-380-103,chicken-wild,,
+43,Zgraggen-1980-380-6,child,2099,CHILD
+44,Zgraggen-1980-380-47,chin,1510,CHIN
+45,Zgraggen-1980-380-181,cloud,1489,CLOUD
+46,Zgraggen-1980-380-390,coconut,970,COCONUT
+47,Zgraggen-1980-380-141,coconut-palm,147,COCONUT TREE
+48,Zgraggen-1980-380-237,cold,1287,COLD
+49,Zgraggen-1980-380-203,comb,1475,COMB
+50,Zgraggen-1980-380-232,cooked,269,COOKED
+51,Zgraggen-1980-380-301,cough,879,COUGH
+52,Zgraggen-1980-380-111,crayfish,467,CRAYFISH
+53,Zgraggen-1980-380-118,crocodile,1857,CROCODILE
+54,Zgraggen-1980-380-251,crooked,297,CROOKED
+55,Zgraggen-1980-380-279,day-after-tomorrow,1179,DAY AFTER TOMORROW
+56,Zgraggen-1980-380-276,day-before-yesterday,1180,DAY BEFORE YESTERDAY
+57,Zgraggen-1980-380-268b,daybreak,729,DAWN
+58,Zgraggen-1980-380-222,dirty,1230,DIRTY
+59,Zgraggen-1980-380-104,dog,2009,DOG
+60,Zgraggen-1980-380-374,dream,2374,DREAM
+61,Zgraggen-1980-380-207,drum,908,DRUM
+62,Zgraggen-1980-380-253,dry,1398,DRY
+63,Zgraggen-1980-380-38,ear,1247,EAR
+64,Zgraggen-1980-380-100,egg,744,EGG
+65,Zgraggen-1980-380-57,elbow,981,ELBOW
+66,Zgraggen-1980-380-235,empty,1624,EMPTY
+67,Zgraggen-1980-380-39,eye,1248,EYE
+68,Zgraggen-1980-380-414,face,1560,FACE
+69,Zgraggen-1980-380-37,face-forehead,123,FOREHEAD
+70,Zgraggen-1980-380-89,faeces,675,FAECES (EXCREMENT)
+71,Zgraggen-1980-380-288,far,1406,FAR
+72,Zgraggen-1980-380-117,fat,323,FAT (ORGANIC SUBSTANCE)
+73,Zgraggen-1980-380-11,father,1217,FATHER
+74,Zgraggen-1980-380-340,fell-tree,463,FELL (A TREE)
+75,Zgraggen-1980-380-108,female,1551,FEMALE
+76,Zgraggen-1980-380-167,fence,1690,FENCE
+77,Zgraggen-1980-380-243,few,1242,FEW
+78,Zgraggen-1980-380-66,fingernail,1258,FINGERNAIL
+79,Zgraggen-1980-380-162,fire,221,FIRE
+80,Zgraggen-1980-380-163,firelight,630,LIGHT (RADIATION)
+81,Zgraggen-1980-380-110,fish,227,FISH
+82,Zgraggen-1980-380-197b,fish-spear,841,FISHING SPEAR
+83,Zgraggen-1980-380-109,fly-sp,1504,FLY (INSECT)
+84,Zgraggen-1980-380-119,flying-fox,235,FLYING FOX
+85,Zgraggen-1980-380-182,fog,249,FOG
+86,Zgraggen-1980-380-189,forest,420,FOREST
+87,Zgraggen-1980-380-120,frog,503,FROG
+88,Zgraggen-1980-380-148,fruit,1507,FRUIT
+89,Zgraggen-1980-380-234,full,1429,FULL
+90,Zgraggen-1980-380-205,g-string,468,G-STRING
+91,Zgraggen-1980-380-166,garden,586,GARDEN
+92,Zgraggen-1980-380-10,girl,1646,GIRL
+93,Zgraggen-1980-380-304,go,695,GO
+94,Zgraggen-1980-380-220,good,1035,GOOD
+95,Zgraggen-1980-380-230,green,1425,GREEN
+96,Zgraggen-1980-380-168,ground,2159,GROUND
+97,Zgraggen-1980-380-125,ground-possum,470,POSSUM
+98,Zgraggen-1980-380-420,guts,1334,GUTS
+99,Zgraggen-1980-380-88,hair,1040,HAIR
+100,Zgraggen-1980-380-394,he-she,2642,HE OR SHE
+101,Zgraggen-1980-380-33,head,1256,HEAD
+102,Zgraggen-1980-380-83,heart,1223,HEART
+103,Zgraggen-1980-380-238,heavy,1210,HEAVY
+104,Zgraggen-1980-380-281,here,136,HERE
+105,Zgraggen-1980-380-412,him-her-it,,
+106,Zgraggen-1980-380-397,his,,
+107,Zgraggen-1980-380-236,hot,1286,HOT
+108,Zgraggen-1980-380-169,house,1252,HOUSE
+109,Zgraggen-1980-380-266,how-many,822,HOW MANY
+110,Zgraggen-1980-380-24,i,1209,I
+111,Zgraggen-1980-380-285,in,1606,INSIDE
+112,Zgraggen-1980-380-71,knee,1371,KNEE
+113,Zgraggen-1980-380-208,knife,1352,KNIFE
+114,Zgraggen-1980-380-388,kunai,2680,MACHETE
+115,Zgraggen-1980-380-60,left-arm,244,LEFT
+116,Zgraggen-1980-380-67,leg,1297,LEG
+117,Zgraggen-1980-380-318c,lightning,1654,LIGHTNING
+118,Zgraggen-1980-380-130,lime,982,LIME (FRUIT)
+119,Zgraggen-1980-380-81,liver,1224,LIVER
+120,Zgraggen-1980-380-213,loincloth,1965,LOINCLOTH
+121,Zgraggen-1980-380-240,long,1203,LONG
+122,Zgraggen-1980-380-112,louse,1392,LOUSE
+123,Zgraggen-1980-380-82,lungs,688,LUNG
+124,Zgraggen-1980-380-107,male,1553,MALE
+125,Zgraggen-1980-380-1,man,1554,MAN
+126,Zgraggen-1980-380-242,many,1198,MANY
+127,Zgraggen-1980-380-419,me,2301,ME
+128,Zgraggen-1980-380-116,meat,634,MEAT
+129,Zgraggen-1980-380-173,moon,1313,MOON
+130,Zgraggen-1980-380-268a,morning,1339,MORNING
+131,Zgraggen-1980-380-114,mosquito,1509,MOSQUITO
+132,Zgraggen-1980-380-12,mother,1216,MOTHER
+133,Zgraggen-1980-380-174,mountain,639,MOUNTAIN
+134,Zgraggen-1980-380-41,mouth,674,MOUTH
+135,Zgraggen-1980-380-418,my,2090,MY
+136,Zgraggen-1980-380-93,name,1405,NAME
+137,Zgraggen-1980-380-51,nape,1347,NAPE (OF NECK)
+138,Zgraggen-1980-380-77,navel,1838,NAVEL
+139,Zgraggen-1980-380-287,near,1942,NEAR
+140,Zgraggen-1980-380-49,neck,1333,NECK
+141,Zgraggen-1980-380-387,negation-marker,,
+142,Zgraggen-1980-380-212,net-bag,293,NETBAG
+143,Zgraggen-1980-380-244,new,1231,NEW
+144,Zgraggen-1980-380-271,night,1233,NIGHT
+145,Zgraggen-1980-380-385,no-not,2279,NO OR NOT
+146,Zgraggen-1980-380-42,nose,1221,NOSE
+147,Zgraggen-1980-380-274,now,1376,NOW
+148,Zgraggen-1980-380-3,old,2112,OLD (AGED)
+149,Zgraggen-1980-380-215,one,1493,ONE
+150,Zgraggen-1980-380-403,our,780,OUR
+151,Zgraggen-1980-380-382,our-dual,,
+152,Zgraggen-1980-380-400,pan,31,PAN
+153,Zgraggen-1980-380-132,pandanus,469,PANDANUS
+154,Zgraggen-1980-380-175,path,2252,PATH
+155,Zgraggen-1980-380-91,penis,1222,PENIS
+156,Zgraggen-1980-380-115,pig,1337,PIG
+157,Zgraggen-1980-380-342,plant,1486,PLANT (SOMETHING)
+158,Zgraggen-1980-380-209,plate,480,PLATE
+159,Zgraggen-1980-380-415,possessive-marker,,
+160,Zgraggen-1980-380-210,pot,1462,POT
+161,Zgraggen-1980-380-289,quickly,1631,FAST
+162,Zgraggen-1980-380-191,rain,658,RAIN (PRECIPITATION)
+163,Zgraggen-1980-380-121,rat,1490,RAT
+164,Zgraggen-1980-380-227,red,156,RED
+165,Zgraggen-1980-380-61,right-arm,1019,RIGHT
+166,Zgraggen-1980-380-246,ripe,178,RIPE
+167,Zgraggen-1980-380-153,root,670,ROOT
+168,Zgraggen-1980-380-140,sago,2270,SAGO
+169,Zgraggen-1980-380-45,saliva,1503,SALIVA
+170,Zgraggen-1980-380-183,salt,1274,SALT
+171,Zgraggen-1980-380-178,sand,671,SAND
+172,Zgraggen-1980-380-149,sap,345,SAP
+173,Zgraggen-1980-380-176,sea,1474,SEA
+174,Zgraggen-1980-380-92,shadow,1388,SHADE
+175,Zgraggen-1980-380-248,sharp,1396,SHARP
+176,Zgraggen-1980-380-177,shore,113,SHORE
+177,Zgraggen-1980-380-241,short,1645,SHORT
+178,Zgraggen-1980-380-154,short-piece-wood,1803,WOOD
+179,Zgraggen-1980-380-58,shoulder,1482,SHOULDER
+180,Zgraggen-1980-380-161,shrub,751,SHRUB
+181,Zgraggen-1980-380-15,sibling-opposite-sex-older,3039,DIFFERENT-SEX OLDER SIBLING
+182,Zgraggen-1980-380-16,sibling-opposite-sex-younger,3040,DIFFERENT-SEX YOUNGER SIBLING
+183,Zgraggen-1980-380-13,sibling-same-sex-older,3037,SAME-SEX OLDER SIBLING
+184,Zgraggen-1980-380-14,sibling-same-sex-younger,3038,SAME-SEX YOUNGER SIBLING
+185,Zgraggen-1980-380-136,singapore-taro,,
+186,Zgraggen-1980-380-370a,singsing,131,FESTIVAL
+187,Zgraggen-1980-380-85,skin,763,SKIN
+188,Zgraggen-1980-380-204,skirt,328,GRASS-SKIRT
+189,Zgraggen-1980-380-180,sky,1732,SKY
+190,Zgraggen-1980-380-290,slow,701,SLOW
+191,Zgraggen-1980-380-225,small,1246,SMALL
+192,Zgraggen-1980-380-165,smoke,778,SMOKE (EXHAUST)
+193,Zgraggen-1980-380-122,snake,730,SNAKE
+194,Zgraggen-1980-380-87,sore-wound,51,SORE
+195,Zgraggen-1980-380-197a,spear-n,945,SPEAR
+196,Zgraggen-1980-380-185,star,1430,STAR
+197,Zgraggen-1980-380-157,stick,1295,STICK
+198,Zgraggen-1980-380-73,stomach,819,STOMACH
+199,Zgraggen-1980-380-184,stone,857,STONE
+200,Zgraggen-1980-380-250,straight,1404,STRAIGHT
+201,Zgraggen-1980-380-150,stump,1023,STUMP OF TREE
+202,Zgraggen-1980-380-406,sugar,862,SUGAR
+203,Zgraggen-1980-380-134,sugarcane,146,SUGAR CANE
+204,Zgraggen-1980-380-186,sun,1343,SUN
+205,Zgraggen-1980-380-413,sweet-potato,159,SWEET POTATO
+206,Zgraggen-1980-380-106,tail,1220,TAIL
+207,Zgraggen-1980-380-392,tanket,2046,APRON
+208,Zgraggen-1980-380-135,taro,351,TARO
+209,Zgraggen-1980-380-421,tears,1651,TEAR (OF EYE)
+210,Zgraggen-1980-380-262,that,78,THAT
+211,Zgraggen-1980-380-398,their,2400,THEIR
+212,Zgraggen-1980-380-408,their-dual,,
+213,Zgraggen-1980-380-395,theirs,,
+214,Zgraggen-1980-380-409,them,,
+215,Zgraggen-1980-380-407,them-dual,,
+216,Zgraggen-1980-380-282,there,1937,THERE
+217,Zgraggen-1980-380-29,they,817,THEY
+218,Zgraggen-1980-380-399,they-dual,,
+219,Zgraggen-1980-380-417,thigh,800,THIGH
+220,Zgraggen-1980-380-261,this,1214,THIS
+221,Zgraggen-1980-380-50,throat,1346,THROAT
+222,Zgraggen-1980-380-65,thumb,1781,THUMB
+223,Zgraggen-1980-380-318b,thunder,1150,THUNDER
+224,Zgraggen-1980-380-325,to-bathe,138,BATHE
+225,Zgraggen-1980-380-296,to-be,1579,BE
+226,Zgraggen-1980-380-260,to-be-hungry,1533,BE HUNGRY
+227,Zgraggen-1980-380-380,to-be-sick,1847,SICK
+228,Zgraggen-1980-380-327,to-bite,1403,BITE
+229,Zgraggen-1980-380-332,to-blow,176,BLOW (WITH MOUTH)
+230,Zgraggen-1980-380-345,to-boil,2493,BOIL
+231,Zgraggen-1980-380-333,to-break,2558,BREAK (CLEAVE)
+232,Zgraggen-1980-380-346,to-burn,2102,BURN
+233,Zgraggen-1980-380-341,to-bury,1719,BURY
+234,Zgraggen-1980-380-343,to-buy-sell-barter,2135,TRADE OR BARTER
+235,Zgraggen-1980-380-367,to-call-out,1084,CALL
+236,Zgraggen-1980-380-329,to-carry,465,CARRY ON BACK
+237,Zgraggen-1980-380-337,to-chop,155,CHOP
+238,Zgraggen-1980-380-303,to-come,1446,COME
+239,Zgraggen-1980-380-301,to-cough,879,COUGH
+240,Zgraggen-1980-380-368,to-cry,1839,CRY
+241,Zgraggen-1980-380-338,to-cut,2156,CUT (WITH KNIFE)
+242,Zgraggen-1980-380-370b,to-dance,1879,DANCE
+243,Zgraggen-1980-380-302,to-die,1494,DIE
+244,Zgraggen-1980-380-334,to-dig,1418,DIG
+245,Zgraggen-1980-380-354,to-do-make,2575,DO OR MAKE
+246,Zgraggen-1980-380-422,to-dream,1920,DREAM (SOMETHING)
+247,Zgraggen-1980-380-348,to-eat,1336,EAT
+248,Zgraggen-1980-380-313,to-fall,1280,FALL
+249,Zgraggen-1980-380-366b,to-fasten,1094,FASTEN
+250,Zgraggen-1980-380-349,to-fight,1423,FIGHT
+251,Zgraggen-1980-380-347,to-fill,2006,FILL
+252,Zgraggen-1980-380-315,to-fly,1441,FLY (MOVE THROUGH AIR)
+253,Zgraggen-1980-380-319,to-give,1447,GIVE
+254,Zgraggen-1980-380-304,to-go,695,GO
+255,Zgraggen-1980-380-306,to-go-down,2014,GO DOWN (DESCEND)
+256,Zgraggen-1980-380-305,to-go-up,705,GO UP (ASCEND)
+257,Zgraggen-1980-380-324,to-hear,1408,HEAR
+258,Zgraggen-1980-380-356,to-hold,1448,HOLD
+259,Zgraggen-1980-380-316,to-jump,1829,JUMP
+260,Zgraggen-1980-380-350,to-kill,1417,KILL
+261,Zgraggen-1980-380-369,to-laugh,1355,LAUGH
+262,Zgraggen-1980-380-353,to-look,1468,LOOK FOR
+263,Zgraggen-1980-380-342,to-plant,1486,PLANT (SOMETHING)
+264,Zgraggen-1980-380-357,to-pour-out,1487,POUR
+265,Zgraggen-1980-380-358,to-pull,1455,PULL
+266,Zgraggen-1980-380-359,to-push,1452,PUSH
+267,Zgraggen-1980-380-360,to-put,998,PUT
+268,Zgraggen-1980-380-344,to-roast,1962,ROAST (SOMETHING)
+269,Zgraggen-1980-380-309,to-run,1519,RUN
+270,Zgraggen-1980-380-361,to-scratch,1436,SCRATCH
+271,Zgraggen-1980-380-323,to-see,1409,SEE
+272,Zgraggen-1980-380-355,to-sharpen,251,SHARPEN (SOMETHING)
+273,Zgraggen-1980-380-352,to-shoot,1172,SHOOT
+274,Zgraggen-1980-380-298,to-sit,1649,SIT DOWN
+275,Zgraggen-1980-380-297,to-sleep,1585,SLEEP
+276,Zgraggen-1980-380-363,to-smell,1586,SMELL (PERCEIVE)
+277,Zgraggen-1980-380-335,to-split,1437,SPLIT
+278,Zgraggen-1980-380-299,to-stand,1442,STAND
+279,Zgraggen-1980-380-364,to-swallow,897,SWALLOW
+280,Zgraggen-1980-380-86,to-sweat,2458,PERSPIRE OR SWEAT
+281,Zgraggen-1980-380-317,to-swell,1573,SWELL
+282,Zgraggen-1980-380-365,to-take,1749,TAKE
+283,Zgraggen-1980-380-321,to-talk,1623,SPEAK
+284,Zgraggen-1980-380-336,to-tear,1735,TEAR (SHRED)
+285,Zgraggen-1980-380-373,to-think,2271,THINK
+286,Zgraggen-1980-380-351,to-throw,1456,THROW
+287,Zgraggen-1980-380-366a,to-tie,1917,TIE
+288,Zgraggen-1980-380-371,to-turn,1588,TURN
+289,Zgraggen-1980-380-318,to-vomit,1278,VOMIT
+290,Zgraggen-1980-380-310,to-walk,1443,WALK
+291,Zgraggen-1980-380-326,to-wash,1453,WASH
+292,Zgraggen-1980-380-322,to-watch,1819,LOOK
+293,Zgraggen-1980-380-255,to-work,1086,WORK (ACTIVITY)
+294,Zgraggen-1980-380-139,tobacco,974,TOBACCO
+295,Zgraggen-1980-380-278,tomorrow,1329,TOMORROW
+296,Zgraggen-1980-380-44,tongue,1205,TONGUE
+297,Zgraggen-1980-380-46,tooth,1380,TOOTH
+298,Zgraggen-1980-380-411,top,1753,TOP
+299,Zgraggen-1980-380-144,tree,906,TREE
+300,Zgraggen-1980-380-124,tree-possum,,
+301,Zgraggen-1980-380-151,tree-top,3036,TREETOP
+302,Zgraggen-1980-380-152,trunk,344,TREE TRUNK
+303,Zgraggen-1980-380-216,two,1498,TWO
+304,Zgraggen-1980-380-90,urine,1142,URINE
+305,Zgraggen-1980-380-383,us,2310,US (OBLIQUE CASE OF WE)
+306,Zgraggen-1980-380-410,us-two,,
+307,Zgraggen-1980-380-79,vein,1924,VEIN
+308,Zgraggen-1980-380-188,village,930,VILLAGE
+309,Zgraggen-1980-380-160,vine,343,VINE
+310,Zgraggen-1980-380-95,vulva,1837,VULVA
+311,Zgraggen-1980-380-123,wallaby,165,WALLABY
+312,Zgraggen-1980-380-190,water,948,WATER
+313,Zgraggen-1980-380-27,we,1212,WE
+314,Zgraggen-1980-380-402,we-dual,,
+315,Zgraggen-1980-380-252,wet,1726,WET
+316,Zgraggen-1980-380-264,what,1236,WHAT
+317,Zgraggen-1980-380-265,where,1237,WHERE
+318,Zgraggen-1980-380-228,white,1335,WHITE
+319,Zgraggen-1980-380-263,who,1235,WHO
+320,Zgraggen-1980-380-194,wind,960,WIND
+321,Zgraggen-1980-380-98,wing,1257,WING
+322,Zgraggen-1980-380-2,woman,962,WOMAN
+323,Zgraggen-1980-380-404,work-n,984,WORK (LABOUR)
+324,Zgraggen-1980-380-137,yam,410,YAM
+325,Zgraggen-1980-380-229,yellow,1424,YELLOW
+326,Zgraggen-1980-380-291,yes,1268,YES
+327,Zgraggen-1980-380-275,yesterday,1174,YESTERDAY
+328,Zgraggen-1980-380-381,you,,
+329,Zgraggen-1980-380-391,you-dual,,
+330,Zgraggen-1980-380-401,you-o2s,,
+331,Zgraggen-1980-380-405,you-pl,,
+332,Zgraggen-1980-380-416,you-pl-dual-o2p,,
+333,Zgraggen-1980-380-384,you-pl-o2p,,
+334,Zgraggen-1980-380-389,your-pl,2274,YOUR (PLURAL)
+335,Zgraggen-1980-380-396,your-pl-dual,,
+336,Zgraggen-1980-380-393,your-sg,732,YOUR (SINGULAR)

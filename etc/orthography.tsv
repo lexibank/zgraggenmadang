@@ -2,7 +2,7 @@ Grapheme	FREQUENCY	IPA	UNICODE
 a	20725	a	U+0061
 i	13732	i	U+0069
 u	13321	u	U+0075
--	13104	NULL	U+002d
+-	13104	+	U+002d
 m	10119	m	U+006d
 n	8568	n	U+006e
 o	7080	o	U+006f
@@ -20,7 +20,7 @@ p	3377	p	U+0070
 w	3215	w	U+0077
 ŋ	2965	ŋ	U+014b
 d	2865	d	U+0064
-_	1924	_	U+005f
+_	1924	+	U+005f
 y	1840	j	U+0079
 h	1688	h	U+0068
 ʔ	1006	ʔ	U+0294
@@ -130,7 +130,7 @@ gs	4	g s	U+0067 U+0073
 A	4	A/a	U+0041
 ä	4	ä	U+00e4
 __	4	_	U+005f U+005f
-P	4	p/P	U+0050
+P	4	P/p	U+0050
 sᵘ	4	sʷ	U+0073 U+1d58
 õ	3	õ	U+00f5
 rⁱ	3	r ⁱ/i	U+0072 U+2071
@@ -142,7 +142,7 @@ tᵊ	3	t ᵊ/ə	U+0074 U+1d4a
 ʌʰ	3	ʌ ʰ/h	U+028c U+02b0
 r̃w	3	r̃ʷ	U+0072 U+0303 U+0077
 wᵘ	3	w ᵘ/u	U+0077 U+1d58
-bᵉ	3	bᵉ	U+0062 U+1d49
+bᵉ	3	bᵉ/b	U+0062 U+1d49
 ë	3	ë	U+00eb
 mᵃ	3	m ᵃ/a	U+006d U+1d43
 mh	3	mʰ	U+006d U+0068
@@ -196,22 +196,22 @@ nw	2	nʷ	U+006e U+0077
 tᵉ	1	t ᵉ/ə	U+0074 U+1d49
 ɛɛ	1	ɛː	U+025b U+025b
 o̞	1	o	U+006f U+031e
-ku/namun	1	<???>	U+006b U+0075 U+002f U+006e U+0061 U+006d U+0075 U+006e
+ku/namun	1	k u	U+006b U+0075 U+002f U+006e U+0061 U+006d U+0075 U+006e
 m̩	1	m̩	U+006d U+0329
-gagatu/ni	1	gagatu	U+0067 U+0061 U+0067 U+0061 U+0074 U+0075 U+002f U+006e U+0069
+gagatu/ni	1	g a g a t u	U+0067 U+0061 U+0067 U+0061 U+0074 U+0075 U+002f U+006e U+0069
 rwᵊ	1	r w ᵊ/ə	U+0072 U+0077 U+1d4a
 hh	1	hː	U+0068 U+0068
-kum/aim	1	kum	U+006b U+0075 U+006d U+002f U+0061 U+0069 U+006d
+kum/aim	1	k u m	U+006b U+0075 U+006d U+002f U+0061 U+0069 U+006d
 rː	1	rː	U+0072 U+02d0
 dᵘ	1	d ᵘ/u	U+0064 U+1d58
 sᵉ	1	s ᵉ/e	U+0073 U+1d49
 ds	1	d s	U+0064 U+0073
 nː	1	nː	U+006e U+02d0
-yʌŋ/tØ	1	yɑŋ	U+0079 U+028c U+014b U+002f U+0074 U+00d8
+yʌŋ/tØ	1	y ɑ ŋ	U+0079 U+028c U+014b U+002f U+0074 U+00d8
 ©	1	NULL	U+00a9
 xx	1	NULL	U+0078 U+0078
-mun/rugu-	1	mun	U+006d U+0075 U+006e U+002f U+0072 U+0075 U+0067 U+0075 U+002d
-r̃uba/in-	1	r̃uba	U+0072 U+0303 U+0075 U+0062 U+0061 U+002f U+0069 U+006e U+002d
+mun/rugu-	1	m u n	U+006d U+0075 U+006e U+002f U+0072 U+0075 U+0067 U+0075 U+002d
+r̃uba/in-	1	r̃/r u b a	U+0072 U+0303 U+0075 U+0062 U+0061 U+002f U+0069 U+006e U+002d
 e̞	1	e	U+0065 U+031e
 i̞	1	i	U+0069 U+031e
 ?w	1	ʔʷ	U+003f U+0077
@@ -225,20 +225,20 @@ gw~au	1	g w a u	U+0067 U+0077 U+007e U+0061 U+0075
 dʷ	1	d ʷ/w	U+0064 U+02b7
 gᵉ	1	g ᵉ/e	U+0067 U+1d49
 ᵱs	1	ᵱ/f s	U+1d71 U+0073
-kuari/wop	1	kuari	U+006b U+0075 U+0061 U+0072 U+0069 U+002f U+0077 U+006f U+0070
+kuari/wop	1	k u a r i	U+006b U+0075 U+0061 U+0072 U+0069 U+002f U+0077 U+006f U+0070
 ǐ	1	i	U+01d0
 a~ra-	1	a	U+0061 U+007e U+0072 U+0061 U+002d
 ɾ	1	ɾ	U+027e
-mi/ñou	1	mi	U+006d U+0069 U+002f U+00f1 U+006f U+0075
+mi/ñou	1	m i	U+006d U+0069 U+002f U+00f1 U+006f U+0075
 W	1	w	U+0057
 yy	1	yː	U+0079 U+0079
 ⱳ	1	ⱳ/w	U+2c73
 bʷ	1	b ʷ/w	U+0062 U+02b7
 g̃	1	g	U+0067 U+0303
-kasin/mer	1	kasin	U+006b U+0061 U+0073 U+0069 U+006e U+002f U+006d U+0065 U+0072
+kasin/mer	1	k a s i n	U+006b U+0061 U+0073 U+0069 U+006e U+002f U+006d U+0065 U+0072
 z̃	1	z̃	U+007a U+0303
 fw	1	f w	U+0066 U+0077
-hap/tuma	1	<???>	U+0068 U+0061 U+0070 U+002f U+0074 U+0075 U+006d U+0061
+hap/tuma	1	h a p	U+0068 U+0061 U+0070 U+002f U+0074 U+0075 U+006d U+0061
 βᵘ	1	β ᵘ/u	U+03b2 U+1d58
 m̃	1	m	U+006d U+0303
 ɐ	1	ɐ	U+0250
@@ -280,7 +280,7 @@ ph	1	pʰ	U+0070 U+0068
 wⁱ	1	w ⁱ/i	U+0077 U+2071
 2052	1	NULL	U+0032 U+0030 U+0035 U+0032
 ɳ	1	ɳ	U+0273
-hela/kal-	1	hela	U+0068 U+0065 U+006c U+0061 U+002f U+006b U+0061 U+006c U+002d
+hela/kal-	1	h e l a	U+0068 U+0065 U+006c U+0061 U+002f U+006b U+0061 U+006c U+002d
 ɛ̃	1	ɛ̃	U+025b U+0303
 jw	1	jʷ	U+006a U+0077
 fᵃ	1	f ᵃ/a	U+0066 U+1d43
@@ -288,7 +288,7 @@ fᵃ	1	f ᵃ/a	U+0066 U+1d43
 ¹	1	NULL	U+00b9
 j̋	1	j̋/j	U+006a U+030b
 tᵃ	1	t ᵃ/a	U+0074 U+1d43
-tata/ba	1	tata	U+0074 U+0061 U+0074 U+0061 U+002f U+0062 U+0061
+tata/ba	1	t a t a	U+0074 U+0061 U+0074 U+0061 U+002f U+0062 U+0061
 ɨː	1	ɨː	U+0268 U+02d0
 ɹ	1	ɹ	U+0279
 rᵘs	1	r ᵘ/u s	U+0072 U+1d58 U+0073
@@ -300,7 +300,7 @@ rᵘw	1	r ᵘ/u w	U+0072 U+1d58 U+0077
 tʷ	1	tʷ	U+0074 U+02b7
 f̩	1	f	U+0066 U+0329
 ˜	1	NULL	U+02dc
-samb/dabu	1	samb	U+0073 U+0061 U+006d U+0062 U+002f U+0064 U+0061 U+0062 U+0075
+samb/dabu	1	s a m b	U+0073 U+0061 U+006d U+0062 U+002f U+0064 U+0061 U+0062 U+0075
 ai~r	1	ai	U+0061 U+0069 U+007e U+0072
 ŋᵉ	1	ŋ ᵉ/e	U+014b U+1d49
 ẽ	1	ẽ	U+1ebd
@@ -310,3 +310,5 @@ Vh	1	V/ə h	U+0056 U+0068
 =	1	NULL	U+003d
 (		NULL	U+0028
 )		NULL	U+0029
+ːn		nː
+̞		NULL

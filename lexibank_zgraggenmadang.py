@@ -60,7 +60,7 @@ class Dataset(BaseDataset):
             # add languages, and build dictionary of sources
             ds.add_languages(id_factory=lambda l: l['Name'])
             lang_source = {l['Name']: l['Source'] for l in self.languages}
-            
+
             for concept in self.concepts:
                 ds.add_concept(
                         ID=slug(concept['ENGLISH']),
@@ -78,14 +78,19 @@ class Dataset(BaseDataset):
             for concept in pb(wl.rows, desc='cldfify'):
                 for doculect, value in wl.get_dict(row=concept).items():
                     for idx in value:
-
-                        # add the lexeme
-                        ds.add_lexemes(
-                                Language_ID=doculect,
-                                Parameter_ID=slug(concept),
-                                Value=counterpart,
-                                Source=lang_source[doculect],
-                            )
+                        # Get data from `wl_data` and skip over
+                        # empty entries
+                        row = wl_data[idx]
+                        value, segments = row[-2], row[-1]
+                        if segments:
+                            # add the lexeme
+                            ds.add_lexemes(
+                                    Language_ID=doculect,
+                                    Parameter_ID=slug(concept),
+                                    Value=value,
+                                    Segments=segments,
+                                    Source=lang_source[doculect],
+                                )
 
     def cmd_download(self, **kw):
         if not self.raw.exists():
