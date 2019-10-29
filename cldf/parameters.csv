@@ -1,337 +1,334 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
-afraid,afraid,3033,SCARED
-afternoon,afternoon,1807,AFTERNOON
-afterwards,afterwards,2093,AFTERWARDS
-all,all,98,ALL
-always,always,1676,ALWAYS
-arm,arm,1673,ARM
-armpit,armpit,1886,ARMPIT
-arrow,arrow,977,ARROW
-arrowbarred,arrow-barred,,
-arrowhooked,arrow-hooked,,
-arrowpronged,arrow-pronged,,
-ashes,ashes,646,ASH
-axe,axe,,
-axeiron,axe-iron,677,AXE
-back,back,1291,BACK
-bad,bad,1292,BAD
-bamboo,bamboo,1927,BAMBOO
-banana,banana,868,BANANA
-basket,basket,1539,BASKET
-bean,bean,832,BEAN
-before,before,1882,BEFORE
-belly,belly,1251,BELLY
-betelnut,betelnut,217,BETELNUT
-betelpepper,betelpepper,177,BETEL PEPPER VINE
-big,big,1202,BIG
-bird,bird,937,BIRD
-black,black,163,BLACK
-blood,blood,946,BLOOD
-bone,bone,1394,BONE
-bow,bow,994,BOW
-bowstring,bowstring,2119,BOW STRING
-boy,boy,1366,BOY
-brains,brains,1583,BRAIN
-breast,breast,1402,BREAST
-butterfly,butterfly,1791,BUTTERFLY
-buttocks,buttocks,834,BUTTOCKS
-calf,calf,498,CALF OF LEG
-cane,cane,,
-cassowary,cassowary,466,CASSOWARY
-chest,chest,1592,CHEST
-chickentame,chicken-tame,1318,CHICKEN
-chickenwild,chicken-wild,,
-child,child,2099,CHILD
-chin,chin,1510,CHIN
-cloud,cloud,1489,CLOUD
-coconut,coconut,970,COCONUT
-coconutpalm,coconut-palm,147,COCONUT TREE
-cold,cold,1287,COLD
-comb,comb,1475,COMB
-cooked,cooked,269,COOKED
-cough,cough,879,COUGH
-crayfish,crayfish,467,CRAYFISH
-crocodile,crocodile,1857,CROCODILE
-crooked,crooked,297,CROOKED
-dayaftertomorrow,day-after-tomorrow,1179,DAY AFTER TOMORROW
-daybeforeyesterday,day-before-yesterday,1180,DAY BEFORE YESTERDAY
-daybreak,daybreak,729,DAWN
-dirty,dirty,1230,DIRTY
-dog,dog,2009,DOG
-dream,dream,2374,DREAM
-drum,drum,908,DRUM
-dry,dry,1398,DRY
-ear,ear,1247,EAR
-egg,egg,744,EGG
-elbow,elbow,981,ELBOW
-empty,empty,1624,EMPTY
-eye,eye,1248,EYE
-face,face,1560,FACE
-faceforehead,face-forehead,123,FOREHEAD
-faeces,faeces,675,FAECES (EXCREMENT)
-far,far,1406,FAR
-fat,fat,323,FAT (ORGANIC SUBSTANCE)
-father,father,1217,FATHER
-felltree,fell-tree,463,FELL (A TREE)
-female,female,1551,FEMALE
-fence,fence,1690,FENCE
-few,few,1242,FEW
-fingernail,fingernail,1258,FINGERNAIL
-fire,fire,221,FIRE
-firelight,firelight,630,LIGHT (RADIATION)
-fish,fish,227,FISH
-fishspear,fish-spear,841,FISHING SPEAR
-flysp,fly-sp,1504,FLY (INSECT)
-flyingfox,flying-fox,235,FLYING FOX
-fog,fog,249,FOG
-forest,forest,420,FOREST
-frog,frog,503,FROG
-fruit,fruit,1507,FRUIT
-full,full,1429,FULL
-gstring,g-string,468,G-STRING
-garden,garden,586,GARDEN
-girl,girl,1646,GIRL
-go,go,695,GO
-good,good,1035,GOOD
-green,green,1425,GREEN
-ground,ground,2159,GROUND
-groundpossum,ground-possum,470,POSSUM
-guts,guts,1334,GUTS
-hair,hair,1040,HAIR
-heshe,he-she,2642,HE OR SHE
-head,head,1256,HEAD
-heart,heart,1223,HEART
-heavy,heavy,1210,HEAVY
-here,here,136,HERE
-himherit,him-her-it,,
-his,his,,
-hot,hot,1286,HOT
-house,house,1252,HOUSE
-howmany,how-many,822,HOW MANY
-i,i,1209,I
-in,in,1606,INSIDE
-knee,knee,1371,KNEE
-knife,knife,1352,KNIFE
-kunai,kunai,2680,MACHETE
-leftarm,left-arm,244,LEFT
-leg,leg,1297,LEG
-lightning,lightning,1654,LIGHTNING
-lime,lime,982,LIME (FRUIT)
-liver,liver,1224,LIVER
-loincloth,loincloth,1965,LOINCLOTH
-long,long,1203,LONG
-louse,louse,1392,LOUSE
-lungs,lungs,688,LUNG
-male,male,1553,MALE
-man,man,1554,MAN
-many,many,1198,MANY
-me,me,2301,ME
-meat,meat,634,MEAT
-moon,moon,1313,MOON
-morning,morning,1339,MORNING
-mosquito,mosquito,1509,MOSQUITO
-mother,mother,1216,MOTHER
-mountain,mountain,639,MOUNTAIN
-mouth,mouth,674,MOUTH
-my,my,2090,MY
-name,name,1405,NAME
-nape,nape,1347,NAPE (OF NECK)
-navel,navel,1838,NAVEL
-near,near,1942,NEAR
-neck,neck,1333,NECK
-negationmarker,negation-marker,,
-netbag,net-bag,293,NETBAG
-new,new,1231,NEW
-night,night,1233,NIGHT
-nonot,no-not,2279,NO OR NOT
-nose,nose,1221,NOSE
-now,now,1376,NOW
-old,old,2112,OLD (AGED)
-one,one,1493,ONE
-our,our,780,OUR
-ourdual,our-dual,,
-pan,pan,31,PAN
-pandanus,pandanus,469,PANDANUS
-path,path,2252,PATH
-penis,penis,1222,PENIS
-pig,pig,1337,PIG
-plant,plant,1486,PLANT (SOMETHING)
-plate,plate,480,PLATE
-possessivemarker,possessive-marker,,
-pot,pot,1462,POT
-quickly,quickly,1631,FAST
-rain,rain,658,RAIN (PRECIPITATION)
-rat,rat,1490,RAT
-red,red,156,RED
-rightarm,right-arm,1019,RIGHT
-ripe,ripe,178,RIPE
-root,root,670,ROOT
-sago,sago,2270,SAGO
-saliva,saliva,1503,SALIVA
-salt,salt,1274,SALT
-sand,sand,671,SAND
-sap,sap,345,SAP
-sea,sea,1474,SEA
-shadow,shadow,1388,SHADE
-sharp,sharp,1396,SHARP
-shore,shore,113,SHORE
-short,short,1645,SHORT
-shortpiecewood,short-piece-wood,1803,WOOD
-shoulder,shoulder,1482,SHOULDER
-shrub,shrub,751,SHRUB
-siblingoppositesexolder,sibling-opposite-sex-older,3039,DIFFERENT-SEX OLDER SIBLING
-siblingoppositesexyounger,sibling-opposite-sex-younger,3040,DIFFERENT-SEX YOUNGER SIBLING
-siblingsamesexolder,sibling-same-sex-older,3037,SAME-SEX OLDER SIBLING
-siblingsamesexyounger,sibling-same-sex-younger,3038,SAME-SEX YOUNGER SIBLING
-singaporetaro,singapore-taro,,
-singsing,singsing,131,FESTIVAL
-skin,skin,763,SKIN
-skirt,skirt,328,GRASS-SKIRT
-sky,sky,1732,SKY
-slow,slow,701,SLOW
-small,small,1246,SMALL
-smoke,smoke,778,SMOKE (EXHAUST)
-snake,snake,730,SNAKE
-sorewound,sore-wound,51,SORE
-spearn,spear-n,945,SPEAR
-star,star,1430,STAR
-stick,stick,1295,STICK
-stomach,stomach,819,STOMACH
-stone,stone,857,STONE
-straight,straight,1404,STRAIGHT
-stump,stump,1023,STUMP OF TREE
-sugar,sugar,862,SUGAR
-sugarcane,sugarcane,146,SUGAR CANE
-sun,sun,1343,SUN
-sweetpotato,sweet-potato,159,SWEET POTATO
-tail,tail,1220,TAIL
-tanket,tanket,2046,APRON
-taro,taro,351,TARO
-tears,tears,1651,TEAR (OF EYE)
-that,that,78,THAT
-their,their,2400,THEIR
-theirdual,their-dual,,
-theirs,theirs,,
-them,them,,
-themdual,them-dual,,
-there,there,1937,THERE
-they,they,817,THEY
-theydual,they-dual,,
-thigh,thigh,800,THIGH
-this,this,1214,THIS
-throat,throat,1346,THROAT
-thumb,thumb,1781,THUMB
-thunder,thunder,1150,THUNDER
-tobathe,to-bathe,138,BATHE
-tobe,to-be,1579,BE
-tobehungry,to-be-hungry,1533,BE HUNGRY
-tobesick,to-be-sick,1847,SICK
-tobite,to-bite,1403,BITE
-toblow,to-blow,176,BLOW (WITH MOUTH)
-toboil,to-boil,2493,BOIL
-tobreak,to-break,2558,BREAK (CLEAVE)
-toburn,to-burn,2102,BURN
-tobury,to-bury,1719,BURY
-tobuysellbarter,to-buy-sell-barter,2135,TRADE OR BARTER
-tocallout,to-call-out,1084,CALL
-tocarry,to-carry,465,CARRY ON BACK
-tochop,to-chop,155,CHOP
-tocome,to-come,1446,COME
-tocough,to-cough,879,COUGH
-tocry,to-cry,1839,CRY
-tocut,to-cut,2156,CUT (WITH KNIFE)
-todance,to-dance,1879,DANCE
-todie,to-die,1494,DIE
-todig,to-dig,1418,DIG
-todomake,to-do-make,2575,DO OR MAKE
-todream,to-dream,1920,DREAM (SOMETHING)
-toeat,to-eat,1336,EAT
-tofall,to-fall,1280,FALL
-tofasten,to-fasten,1094,FASTEN
-tofight,to-fight,1423,FIGHT
-tofill,to-fill,2006,FILL
-tofly,to-fly,1441,FLY (MOVE THROUGH AIR)
-togive,to-give,1447,GIVE
-togo,to-go,695,GO
-togodown,to-go-down,2014,GO DOWN (DESCEND)
-togoup,to-go-up,705,GO UP (ASCEND)
-tohear,to-hear,1408,HEAR
-tohold,to-hold,1448,HOLD
-tojump,to-jump,1829,JUMP
-tokill,to-kill,1417,KILL
-tolaugh,to-laugh,1355,LAUGH
-tolook,to-look,1468,LOOK FOR
-toplant,to-plant,1486,PLANT (SOMETHING)
-topourout,to-pour-out,1487,POUR
-topull,to-pull,1455,PULL
-topush,to-push,1452,PUSH
-toput,to-put,998,PUT
-toroast,to-roast,1962,ROAST (SOMETHING)
-torun,to-run,1519,RUN
-toscratch,to-scratch,1436,SCRATCH
-tosee,to-see,1409,SEE
-tosharpen,to-sharpen,251,SHARPEN (SOMETHING)
-toshoot,to-shoot,1172,SHOOT
-tosit,to-sit,1649,SIT DOWN
-tosleep,to-sleep,1585,SLEEP
-tosmell,to-smell,1586,SMELL (PERCEIVE)
-tosplit,to-split,1437,SPLIT
-tostand,to-stand,1442,STAND
-toswallow,to-swallow,897,SWALLOW
-tosweat,to-sweat,2458,PERSPIRE OR SWEAT
-toswell,to-swell,1573,SWELL
-totake,to-take,1749,TAKE
-totalk,to-talk,1623,SPEAK
-totear,to-tear,1735,TEAR (SHRED)
-tothink,to-think,2271,THINK
-tothrow,to-throw,1456,THROW
-totie,to-tie,1917,TIE
-toturn,to-turn,1588,TURN
-tovomit,to-vomit,1278,VOMIT
-towalk,to-walk,1443,WALK
-towash,to-wash,1453,WASH
-towatch,to-watch,1819,LOOK
-towork,to-work,1086,WORK (ACTIVITY)
-tobacco,tobacco,974,TOBACCO
-tomorrow,tomorrow,1329,TOMORROW
-tongue,tongue,1205,TONGUE
-tooth,tooth,1380,TOOTH
-top,top,1753,TOP
-tree,tree,906,TREE
-treepossum,tree-possum,,
-treetop,tree-top,3036,TREETOP
-trunk,trunk,344,TREE TRUNK
-two,two,1498,TWO
-urine,urine,1142,URINE
-us,us,2310,US (OBLIQUE CASE OF WE)
-ustwo,us-two,,
-vein,vein,1924,VEIN
-village,village,930,VILLAGE
-vine,vine,343,VINE
-vulva,vulva,1837,VULVA
-wallaby,wallaby,165,WALLABY
-water,water,948,WATER
-we,we,1212,WE
-wedual,we-dual,,
-wet,wet,1726,WET
-what,what,1236,WHAT
-where,where,1237,WHERE
-white,white,1335,WHITE
-who,who,1235,WHO
-wind,wind,960,WIND
-wing,wing,1257,WING
-woman,woman,962,WOMAN
-workn,work-n,984,WORK (LABOUR)
-yam,yam,410,YAM
-yellow,yellow,1424,YELLOW
-yes,yes,1268,YES
-yesterday,yesterday,1174,YESTERDAY
-you,you,,
-youdual,you-dual,,
-youo2s,you-o2s,,
-youpl,you-pl,,
-youpldualo2p,you-pl-dual-o2p,,
-youplo2p,you-pl-o2p,,
-yourpl,your-pl,2274,YOUR (PLURAL)
-yourpldual,your-pl-dual,,
-yoursg,your-sg,732,YOUR (SINGULAR)
+1_man,man,1554,MAN
+2_woman,woman,962,WOMAN
+3_oldofhumans,old (of humans),2112,OLD (AGED)
+4_all,all,98,ALL
+6_child,child,2099,CHILD
+9_boy,boy,1366,BOY
+10_girl,girl,1646,GIRL
+11_father,father,1217,FATHER
+12_mother,mother,1216,MOTHER
+13_siblingsamesexolder,"sibling same sex, older",3037,SAME-SEX OLDER SIBLING
+14_siblingsamesexyounger,"sibling same sex, younger",3038,SAME-SEX YOUNGER SIBLING
+15_siblingdifferentsexolder,"sibling different sex, older",3039,DIFFERENT-SEX OLDER SIBLING
+16_siblingdifferentsexyounger,"sibling different sex, younger",3040,DIFFERENT-SEX YOUNGER SIBLING
+24_i,I,1209,I
+27_we,we,1212,WE
+29_they,they,817,THEY
+33_head,head,1256,HEAD
+35_brains,brains,1583,BRAIN
+37_faceforehead,face (forehead),123,FOREHEAD
+38_ear,ear,1247,EAR
+39_eye,eye,1248,EYE
+41_mouth,mouth,674,MOUTH
+42_nose,nose,1221,NOSE
+44_tongue,tongue,1205,TONGUE
+45_saliva,saliva,1503,SALIVA
+46_tooth,tooth,1380,TOOTH
+47_chin,chin,1510,CHIN
+49_neck,neck,1333,NECK
+50_throat,throat,1346,THROAT
+51_nape,nape,1347,NAPE (OF NECK)
+53_back,back,1291,BACK
+54_buttocks,buttocks,834,BUTTOCKS
+55_arm,arm,1673,ARM
+57_elbow,elbow,981,ELBOW
+58_shoulder,shoulder,1482,SHOULDER
+59_armpit,armpit,1886,ARMPIT
+60_leftarm,left (arm),244,LEFT
+61_rightarm,right (arm),1019,RIGHT
+65_thumb,thumb,1781,THUMB
+66_fingernail,fingernail,1258,FINGERNAIL
+67_leg,leg,1297,LEG
+70_calfofleg,calf (of leg),498,CALF OF LEG
+71_knee,knee,1371,KNEE
+72_belly,belly,1251,BELLY
+73_stomachguts,stomach (guts),819,STOMACH
+74_breastwoman,breast (woman),1402,BREAST
+75_chest,chest,1592,CHEST
+77_navel,navel,1838,NAVEL
+78_blood,blood,946,BLOOD
+79_vein,vein,1924,VEIN
+81_liver,liver,1224,LIVER
+82_lung,lung,688,LUNG
+83_heart,heart,1223,HEART
+84_bone,bone,1394,BONE
+85_skin,skin,763,SKIN
+86_sweat,sweat,2458,PERSPIRE OR SWEAT
+87_sore,sore,51,SORE
+88_hair,hair,1040,HAIR
+89_excrement,excrement,675,FAECES (EXCREMENT)
+90_urine,urine,1142,URINE
+91_penis,penis,1222,PENIS
+92_shadow,shadow,1388,SHADE
+93_name,name,1405,NAME
+95_vulva,vulva,1837,VULVA
+96_bird,bird,937,BIRD
+98_wing,wing,1257,WING
+100_egg,egg,744,EGG
+101_cassowary,cassowary,466,CASSOWARY
+102_chickentame,chicken (tame),1318,CHICKEN
+103_chickenwild,chicken (wild),,
+104_dog,dog,2009,DOG
+106_tailofdog,tail (of dog),1220,TAIL
+107_male,male,1553,MALE
+108_female,female,1551,FEMALE
+109_flyn,fly (n),1504,FLY (INSECT)
+110_fish,fish,227,FISH
+111_crayfish,crayfish,467,CRAYFISH
+112_louse,louse,1392,LOUSE
+114_mosquito,mosquito,1509,MOSQUITO
+115_pig,pig,1337,PIG
+116_meat,meat,634,MEAT
+117_fat,fat,323,FAT (ORGANIC SUBSTANCE)
+118_crocodile,crocodile,1857,CROCODILE
+119_flyingfox,flying fox,235,FLYING FOX
+120_frog,frog,503,FROG
+121_rat,rat,1490,RAT
+122_snake,snake,730,SNAKE
+123_wallaby,wallaby,165,WALLABY
+124_possumtree,possum (tree),,
+125_possumground,possum (ground),470,POSSUM
+126_butterfly,butterfly,1791,BUTTERFLY
+127_banana,banana,868,BANANA
+128_betelnut,betelnut,217,BETELNUT
+129_betelpeppervine,betel pepper vine,177,BETEL PEPPER VINE
+130_lime,lime,982,LIME (FRUIT)
+132_pandanus,pandanus,469,PANDANUS
+134_sugarcane,sugar cane,146,SUGAR CANE
+135_taro,taro,351,TARO
+136_singaporetaro,singapore taro,,
+137_yam,yam,410,YAM
+139_tobacco,tobacco,974,TOBACCO
+140_sago,sago,2270,SAGO
+141_coconuttree,coconut tree,147,COCONUT TREE
+144_tree,tree,906,TREE
+148_fruit,fruit,1507,FRUIT
+149_sap,sap,345,SAP
+150_stumpoftree,stump (of tree),241,TREE STUMP
+151_topoftree,top (of tree),3036,TREETOP
+152_trunkoftree,trunk (of tree),344,TREE TRUNK
+153_rootoftree,root (of tree),670,ROOT
+154_pieceofwood,piece of wood,1803,WOOD
+156_cane,cane,,
+157_stick,stick,1295,STICK
+158_bamboo,bamboo,1927,BAMBOO
+159_bean,bean,832,BEAN
+160_vine,vine,343,VINE
+161_shrubtanget,shrub (tanget),751,SHRUB
+162_fire,fire,221,FIRE
+163_lightoffire,light (of fire),630,LIGHT (RADIATION)
+164_ashes,ashes,646,ASH
+165_smoke,smoke,778,SMOKE (EXHAUST)
+166_garden,garden,586,GARDEN
+167_fence,fence,1690,FENCE
+168_ground,ground,2159,GROUND
+169_house,house,1252,HOUSE
+173_moon,moon,1313,MOON
+174_mountain,mountain,639,MOUNTAIN
+175_path,path,2252,PATH
+176_sea,sea,1474,SEA
+177_shore,shore,113,SHORE
+178_sand,sand,671,SAND
+180_sky,sky,1732,SKY
+181_cloud,cloud,1489,CLOUD
+182_fog,fog,249,FOG
+183_salt,salt,1274,SALT
+184_stone,stone,857,STONE
+185_star,star,1430,STAR
+186_sun,sun,1343,SUN
+188_village,village,930,VILLAGE
+189_woods,woods,420,FOREST
+190_water,water,948,WATER
+191_rain,rain,658,RAIN (PRECIPITATION)
+194_wind,wind,960,WIND
+196a_arrowarrowa,arrow (arrow a),977,ARROW
+196b_barredarrowarrowb,barred arrow (arrow b),,
+196c_hookedarrowarrowc,hooked arrow (arrow c),,
+196d_prongedarrowarrowd,pronged arrow (arrow d),,
+197a_spear,spear,945,SPEAR
+197b_fishspear,fish spear,841,FISHING SPEAR
+198a_axestone,axe (stone),,
+198b_axeiron,axe (iron),677,AXE
+199_bow,bow,994,BOW
+200_ropeofbow,rope (of bow),2119,BOW STRING
+203_comb,comb,1475,COMB
+204_grassskirt,grass skirt,328,GRASS-SKIRT
+205_gstring,G-string,468,G-STRING
+207_signaldrum,signal drum,908,DRUM
+208_knife,knife,1352,KNIFE
+209_woodenplate,wooden plate,480,PLATE
+210_saucepanclaypot,saucepan (clay pot),1462,POT
+212_netbag,netbag,293,NETBAG
+213_loincloth,loincloth,1965,LOINCLOTH
+214_basket,basket,1539,BASKET
+215_one,one,1493,ONE
+216_two,two,1498,TWO
+220_good,good,1035,GOOD
+221_bad,bad,1292,BAD
+222_dirty,dirty,1230,DIRTY
+224_big,big,1202,BIG
+225_small,small,1246,SMALL
+226_black,black,163,BLACK
+227_red,red,156,RED
+228_white,white,1335,WHITE
+229_yellow,yellow,1424,YELLOW
+230_green,green,1425,GREEN
+232_cooked,cooked,269,COOKED
+234_full,full,1429,FULL
+235_empty,empty,1624,EMPTY
+236_hot,hot,1286,HOT
+237_cold,cold,1287,COLD
+238_heavy,heavy,1210,HEAVY
+240_long,long,1203,LONG
+241_short,short,1645,SHORT
+242_many,many,1198,MANY
+243_few,few,1242,FEW
+244_new,new,1231,NEW
+246_ripe,ripe,178,RIPE
+248_sharp,sharp,1396,SHARP
+250_straight,straight,1404,STRAIGHT
+251_crooked,crooked,297,CROOKED
+252_wet,wet,1726,WET
+253_dry,dry,1398,DRY
+255_work,work,1086,WORK (ACTIVITY)
+260_hungry,hungry,1533,BE HUNGRY
+261_this,this,1214,THIS
+262_that,that,78,THAT
+263_who,who,1235,WHO
+264_what,what,1236,WHAT
+265_where,where,1237,WHERE
+266_howmany,how many,822,HOW MANY
+268a_morning,morning,1339,MORNING
+268b_daybreak,day break,729,DAWN
+270_afternoon,afternoon,1807,AFTERNOON
+271_night,night,1233,NIGHT
+274_now,now,1376,NOW
+275_yesterday,yesterday,1174,YESTERDAY
+276_daybeforeyesterday,day before yesterday,1180,DAY BEFORE YESTERDAY
+277_before,before,1882,BEFORE
+278_tomorrow,tomorrow,1329,TOMORROW
+279_dayaftertomorrow,day after tomorrow,1179,DAY AFTER TOMORROW
+280_afterwards,afterwards,2093,AFTERWARDS
+281_here,here,136,HERE
+282_there,there,1937,THERE
+285_insidethehouse,inside (the house),3305,INSIDE A HOUSE
+287_near,near,1942,NEAR
+288_far,far,1406,FAR
+289_quickly,quickly,1631,FAST
+290_slowly,slowly,701,SLOW
+291_yes,yes,1268,YES
+293_always,always,1676,ALWAYS
+296_be,be,1579,BE
+297_sleep,sleep,1585,SLEEP
+298_sitdown,sit down,1649,SIT DOWN
+299_stand,stand,1442,STAND
+301_cough,cough,879,COUGH
+302_die,die,1494,DIE
+303_come,come,1446,COME
+304_go,go,695,GO
+305_goup,go up,705,GO UP (ASCEND)
+306_godown,go down,2014,GO DOWN (DESCEND)
+309_run,run,1519,RUN
+310_walk,walk,1443,WALK
+313_falltree,fall (tree),1280,FALL
+315_flyv,fly (v),1441,FLY (MOVE THROUGH AIR)
+316_jump,jump,1829,JUMP
+317_swellupskin,swell up (skin),1573,SWELL
+318_vomit,vomit,1278,VOMIT
+318b_thundering,thundering,1150,THUNDER
+318c_lightning,lightning,1654,LIGHTNING
+319_give,give,1447,GIVE
+321_talktotr,talk to (tr),1623,SPEAK
+322_watchitr,watch (itr),1819,LOOK
+323_seetr,see (tr),1409,SEE
+324_hear,hear,1408,HEAR
+325_batheitr,bathe (itr),138,BATHE
+326_washtr,wash (tr),1453,WASH
+327_bite,bite,1403,BITE
+329_carryonback,carry (on back),465,CARRY ON BACK
+332_blowonfire,blow (on fire),176,BLOW (WITH MOUTH)
+333_breakacross,break (across),2558,BREAK (CLEAVE)
+334_dig,dig,1418,DIG
+335_split,split,1437,SPLIT
+336_tear,tear,1735,TEAR (SHRED)
+337_chopwithaxe,chop (with axe),3151,CUT (WITH AXE)
+338_cutwithknife,cut (with knife),2156,CUT (WITH KNIFE)
+340_fellatree,fell (a tree),355,CUT DOWN
+341_bury,bury,1719,BURY
+342_plant,plant,1486,PLANT (SOMETHING)
+343_buy,buy,1869,BUY
+344_roast,roast,1962,ROAST (SOMETHING)
+345_boil,boil,2493,BOIL
+346_burn,burn,2102,BURN
+347_fillupwater,fill up (water),2006,FILL
+348_eat,eat,1336,EAT
+349_fighthit,fight (hit),1423,FIGHT
+350_kill,kill,1417,KILL
+351_throwstone,throw (stone),1456,THROW
+352_shoot,shoot,1172,SHOOT
+353_lookfor,look for,1468,LOOK FOR
+354_make,make,2575,DO OR MAKE
+355_sharpenabow,sharpen a bow,251,SHARPEN (SOMETHING)
+356_hold,hold,1448,HOLD
+357_pouroutliquid,pour out (liquid),1487,POUR
+358_pull,pull,1455,PULL
+359_push,push,1452,PUSH
+360_put,put,998,PUT
+361_scratchskin,scratch (skin),1436,SCRATCH
+363_smell,smell,1586,SMELL (PERCEIVE)
+364_swallow,swallow,897,SWALLOW
+365_take,take,1749,TAKE
+366a_tie,tie,1917,TIE
+366b_fasten,fasten,1094,FASTEN
+367_callout,call out,1084,CALL
+368_cry,cry,1839,CRY
+369_laugh,laugh,1355,LAUGH
+370a_singsing,singsing,131,FESTIVAL
+370b_dance,dance,1879,DANCE
+371_turnoneself,turn (oneself),1444,TURN AROUND
+373_think,think,2271,THINK
+374_dream,dream,2374,DREAM
+375_beafraid,be afraid,3033,SCARED
+380_besick,be sick,1847,SICK
+381_you,you,1215,THOU
+382_ourdual,our-dual,,
+383_us,us,2310,US (OBLIQUE CASE OF WE)
+384_youplo2p,you-pl-o2p,1213,YOU
+385_nonot,no-not,2279,NO OR NOT
+387_negationmarker,negation-marker,,
+388_kunai,kunai,2680,MACHETE
+389_yourpl,your-pl,2274,YOUR (PLURAL)
+390_coconut,coconut,970,COCONUT
+391_youdual,you-dual,2111,YOU TWO
+392_tanket,tanket,2046,APRON
+393_yoursg,your-sg,732,YOUR (SINGULAR)
+394_heshe,he-she,2642,HE OR SHE
+395_theirs,theirs,2400,THEIR
+396_yourpldual,your-pl-dual,,
+397_his,his,2473,HIS (GENITIVE OF HE)
+398_their,their,2400,THEIR
+399_theydual,they-dual,,
+400_pan,pan,31,PAN
+401_youo2s,you-o2s,,
+402_wedual,we-dual,,
+403_our,our,780,OUR
+404_workn,work-n,984,WORK (LABOUR)
+405_youpl,you-pl,,
+406_sugar,sugar,862,SUGAR
+407_themdual,them-dual,,
+408_theirdual,their-dual,,
+409_them,them,,
+410_ustwo,us-two,,
+411_top,top,1753,TOP
+412_himherit,him-her-it,,
+413_sweetpotato,sweet-potato,159,SWEET POTATO
+414_face,face,1560,FACE
+415_possessivemarker,possessive-marker,,
+416_youpldualo2p,you-pl-dual-o2p,,
+417_thigh,thigh,800,THIGH
+418_my,my,2090,MY
+419_me,me,2301,ME
+420_guts,guts,1334,GUTS
+421_tears,tears,1651,TEAR (OF EYE)
+422_todream,to-dream,1920,DREAM (SOMETHING)
