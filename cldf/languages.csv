@@ -1,101 +1,101 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source
-amaimon,amaimon,amai1246,Amaimon,,,,,,Zgraggen1980NA
-amele,amele,amel1241,Amele,,,,,,Zgraggen1980MA
-anam,anam,anam1247,Anam,,,,,,Zgraggen1980SA
-anamgura,anamgura,anam1248,Anamuxra,,,,,,Zgraggen1980SA
-anjam,anjam,anja1238,Anjam,,,,,,Zgraggen1980RC
-apali,apali,apal1256,Apali,,,,,,Zgraggen1980SA
-arawum,arawum,araw1272,Arawum,,,,,,Zgraggen1980RC
-asas,asas,asas1240,Asas,,,,,,Zgraggen1980RC
-atemble,atemble,atem1241,Mand,,,,,,Zgraggen1980SA
-bagupi,bagupi,bagu1252,Bagupi,,,,,,Zgraggen1980MA
-baimak,baimak,baim1245,Baimak,,,,,,Zgraggen1980MA
-bargam,bargam,barg1252,Bargam,,,,,,Zgraggen1980MA
-bau,bau,bauu1244,Bau,,,,,,Zgraggen1980MA
-bepour,bepour,bepo1240,Bepour,,,,,,Zgraggen1980NA
-bilakura,bilakura,bila1257,Bilakura,,,,,,Zgraggen1980NA
-biyom,biyom,biyo1244,Biyom,,,,,,Zgraggen1980SA
-bongu,bongu,bong1291,Bongu,,,,,,Zgraggen1980RC
-brem,brem,brem1238,Brem,,,,,,Zgraggen1980MA
-danaru,danaru,dana1254,Danaru,,,,,,Zgraggen1980RC
-faita,faita,fait1240,Kulsab,,,,,,Zgraggen1980SA
-gal,gal,gall1278,Gal,,,,,,Zgraggen1980MA
-ganglau,ganglau,gang1270,Ganglau,,,,,,Zgraggen1980RC
-garus,garus,garu1246,Garus,,,,,,Zgraggen1980MA
-gavak,gavak,dimi1244,Dimir,,,,,,Zgraggen1980MA
-girawa,girawa,gira1247,Girawa,,,,,,Zgraggen1980MA
-gumalu,gumalu,guma1255,Gumalu,,,,,,Zgraggen1980MA
-isabi,isabi,isab1240,Isabi,,,,,,Zgraggen1980SA
-isebe,isebe,iseb1246,Isebe,,,,,,Zgraggen1980MA
-jilim,jilim,jili1241,Jilim,,,,,,Zgraggen1980RC
-kare,kare,kare1341,Kare (Papua New Guinea),,,,,,Zgraggen1980MA
-kein,kein,kein1239,Kein,,,,,,Zgraggen1980MA
-kesawai,kesawai,kesa1244,Kesawai,,,,,,Zgraggen1980RC
-kobol,kobol,kobo1248,Kobol,,,,,,Zgraggen1980MA
-korak,korak,kora1296,Korak,,,,,,Zgraggen1980NA
-kowaki,kowaki,kowa1245,Kowaki,,,,,,Zgraggen1980NA
-lemio,lemio,lemi1243,Lemio,,,,,,Zgraggen1980RC
-maia-pila,maia-pila,pila1246,Pila,,,,,,Zgraggen1980NA
+amaimon,amaimon,amai1246,Amaimon,ali,Papunesia,-5.18742,145.368,Nuclear Trans New Guinea,Zgraggen1980NA
+amele,amele,amel1241,Amele,aey,Papunesia,-5.29126,145.687,Nuclear Trans New Guinea,Zgraggen1980MA
+anam,anam,anam1247,Anam,pda,Papunesia,-4.68869,145.051,Nuclear Trans New Guinea,Zgraggen1980SA
+anamgura,anamgura,anam1248,Anamuxra,imi,Papunesia,-4.63762,144.991,Nuclear Trans New Guinea,Zgraggen1980SA
+anjam,anjam,anja1238,Anjam,boj,Papunesia,-5.45899,145.717,Nuclear Trans New Guinea,Zgraggen1980RC
+apali,apali,apal1256,Apali,ena,Papunesia,-5.1727,145.023,Nuclear Trans New Guinea,Zgraggen1980SA
+arawum,arawum,araw1272,Arawum,awm,Papunesia,-5.52787,145.903,Nuclear Trans New Guinea,Zgraggen1980RC
+asas,asas,asas1240,Asas,asd,Papunesia,-5.69345,145.549,Nuclear Trans New Guinea,Zgraggen1980RC
+atemble,atemble,atem1241,Mand,ate,Papunesia,-5.08137,144.806,Nuclear Trans New Guinea,Zgraggen1980SA
+bagupi,bagupi,bagu1252,Bagupi,bpi,Papunesia,-5.07778,145.632,Nuclear Trans New Guinea,Zgraggen1980MA
+baimak,baimak,baim1245,Baimak,bmx,Papunesia,-5.18943,145.606,Nuclear Trans New Guinea,Zgraggen1980MA
+bargam,bargam,barg1252,Bargam,mlp,Papunesia,-4.8723,145.756,Nuclear Trans New Guinea,Zgraggen1980MA
+bau,bau,bauu1244,Bau,bbd,Papunesia,-5.26465,145.611,Nuclear Trans New Guinea,Zgraggen1980MA
+bepour,bepour,bepo1240,Bepour,bie,Papunesia,-4.5985,145.442,Nuclear Trans New Guinea,Zgraggen1980NA
+bilakura,bilakura,bila1257,Bilakura,bql,Papunesia,-4.93116,145.559,Nuclear Trans New Guinea,Zgraggen1980NA
+biyom,biyom,biyo1244,Biyom,bpm,Papunesia,-5.79929,145.348,Nuclear Trans New Guinea,Zgraggen1980SA
+bongu,bongu,bong1291,Bongu,bpu,Papunesia,-5.50519,145.806,Nuclear Trans New Guinea,Zgraggen1980RC
+brem,brem,brem1238,Brem,buq,Papunesia,-4.67372,145.562,Nuclear Trans New Guinea,Zgraggen1980MA
+danaru,danaru,dana1254,Danaru,dnr,Papunesia,-5.53634,145.457,Nuclear Trans New Guinea,Zgraggen1980RC
+faita,faita,fait1240,Kulsab,faj,Papunesia,-5.59947,145.298,Nuclear Trans New Guinea,Zgraggen1980SA
+gal,gal,gall1278,Gal,gap,Papunesia,-5.16351,145.623,Nuclear Trans New Guinea,Zgraggen1980MA
+ganglau,ganglau,gang1270,Ganglau,ggl,Papunesia,-5.57945,146.1305,Nuclear Trans New Guinea,Zgraggen1980RC
+garus,garus,garu1246,Garus,gyb,Papunesia,-4.9222,145.683,Nuclear Trans New Guinea,Zgraggen1980MA
+gavak,gavak,dimi1244,Dimir,dmc,Papunesia,-4.8296,145.676,Nuclear Trans New Guinea,Zgraggen1980MA
+girawa,girawa,gira1247,Girawa,bbr,Papunesia,-5.35342,145.423,Nuclear Trans New Guinea,Zgraggen1980MA
+gumalu,gumalu,guma1255,Gumalu,gmu,Papunesia,-5.22189,145.618,Nuclear Trans New Guinea,Zgraggen1980MA
+isabi,isabi,isab1240,Isabi,isa,Papunesia,-5.83809,145.462,Nuclear Trans New Guinea,Zgraggen1980SA
+isebe,isebe,iseb1246,Isebe,igo,Papunesia,-5.20719,145.691,Nuclear Trans New Guinea,Zgraggen1980MA
+jilim,jilim,jili1241,Jilim,jil,Papunesia,-5.56611,145.706,Nuclear Trans New Guinea,Zgraggen1980RC
+kare,kare,kare1341,Kare (Papua New Guinea),kmf,Papunesia,-5.07674,145.499,Nuclear Trans New Guinea,Zgraggen1980MA
+kein,kein,kein1239,Kein,bmh,Papunesia,-5.3373,145.483,Nuclear Trans New Guinea,Zgraggen1980MA
+kesawai,kesawai,kesa1244,Kesawai,xes,Papunesia,-5.76797,145.58,Nuclear Trans New Guinea,Zgraggen1980RC
+kobol,kobol,kobo1248,Kobol,kgu,Papunesia,-4.79614,145.284,Nuclear Trans New Guinea,Zgraggen1980MA
+korak,korak,kora1296,Korak,koz,Papunesia,-4.5998,145.514,Nuclear Trans New Guinea,Zgraggen1980NA
+kowaki,kowaki,kowa1245,Kowaki,xow,Papunesia,-4.63032,145.412,Nuclear Trans New Guinea,Zgraggen1980NA
+lemio,lemio,lemi1243,Lemio,lei,Papunesia,-5.61407,146.441,Nuclear Trans New Guinea,Zgraggen1980RC
+maia-pila,maia-pila,pila1246,Pila,,,,,Nuclear Trans New Guinea,Zgraggen1980NA
 maia-saki,maia-saki,sali1249,Saki,,,,,,Zgraggen1980NA
-mala,mala,mala1494,Mala (Papua New Guinea),,,,,,Zgraggen1980MA
-malas,malas,mala1495,Malas,,,,,,Zgraggen1980NA
-male,male,male1291,Male (Papua New Guinea),,,,,,Zgraggen1980RC
-matepi,matepi,mate1260,Matepi,,,,,,Zgraggen1980MA
-mauwake,mauwake,mauw1238,Mauwake,,,,,,Zgraggen1980MA
-mawak,mawak,mawa1266,Mawak,,,,,,Zgraggen1980NA
-mawan,mawan,mawa1267,Mawan,,,,,,Zgraggen1980MA
-miani,miani,mian1254,Miani,,,,,,Zgraggen1980NA
-migum,migum,kolo1267,Kolom,,,,,,Zgraggen1980RC
-moere,moere,moer1240,Moere,,,,,,Zgraggen1980NA
-moresada,moresada,more1258,Moresada,,,,,,Zgraggen1980SA
-mosimo,mosimo,mosi1248,Mosimo,,,,,,Zgraggen1980MA
-mum,mum,mumm1238,Mum,,,,,,Zgraggen1980SA
-munit,munit,muni1257,Munit,,,,,,Zgraggen1980MA
-murupi,murupi,muru1273,Murupi,,,,,,Zgraggen1980MA
-musak,musak,musa1266,Aisi,,,,,,Zgraggen1980SA
-musar,musar,musa1265,Musar,,,,,,Zgraggen1980NA
-nake,nake,nake1240,Nake,,,,,,Zgraggen1980MA
-nend,nend,nend1239,Nend,,,,,,Zgraggen1980SA
-nobonob,nobonob,nobo1238,Nobonob,,,,,,Zgraggen1980MA
-ogea,ogea,ogea1238,Ogea,,,,,,Zgraggen1980RC
-pal,pal,pall1244,Pal,,,,,,Zgraggen1980MA
-pamosu,pamosu,pamo1253,Pamosu,,,,,,Zgraggen1980RC
-panim,panim,pani1258,Panim,,,,,,Zgraggen1980MA
+mala,mala,mala1494,Mala (Papua New Guinea),ped,Papunesia,-4.35889,145.04,Nuclear Trans New Guinea,Zgraggen1980MA
+malas,malas,mala1495,Malas,mkr,Papunesia,-4.76685,145.621,Nuclear Trans New Guinea,Zgraggen1980NA
+male,male,male1291,Male (Papua New Guinea),mdc,Papunesia,-5.49975,145.757,Nuclear Trans New Guinea,Zgraggen1980RC
+matepi,matepi,mate1260,Matepi,mqe,Papunesia,-5.13857,145.617,Nuclear Trans New Guinea,Zgraggen1980MA
+mauwake,mauwake,mauw1238,Mauwake,mhl,Papunesia,-4.52416,145.394,Nuclear Trans New Guinea,Zgraggen1980MA
+mawak,mawak,mawa1266,Mawak,mjj,Papunesia,-4.61817,145.283,Nuclear Trans New Guinea,Zgraggen1980NA
+mawan,mawan,mawa1267,Mawan,mcz,Papunesia,-5.2219,145.589,Nuclear Trans New Guinea,Zgraggen1980MA
+miani,miani,mian1254,Miani,pla,Papunesia,-4.42116,145.276,Nuclear Trans New Guinea,Zgraggen1980NA
+migum,migum,kolo1267,Kolom,klm,Papunesia,-5.57832,146.212,Nuclear Trans New Guinea,Zgraggen1980RC
+moere,moere,moer1240,Moere,mvq,Papunesia,-4.62246,145.458,Nuclear Trans New Guinea,Zgraggen1980NA
+moresada,moresada,more1258,Moresada,msx,Papunesia,-4.57497,144.988,Nuclear Trans New Guinea,Zgraggen1980SA
+mosimo,mosimo,mosi1248,Mosimo,mqv,Papunesia,-4.95226,145.605,Nuclear Trans New Guinea,Zgraggen1980MA
+mum,mum,mumm1238,Mum,kqa,Papunesia,-4.83462,145.059,Nuclear Trans New Guinea,Zgraggen1980SA
+munit,munit,muni1257,Munit,mtc,Papunesia,-5.24329,145.548,Nuclear Trans New Guinea,Zgraggen1980MA
+murupi,murupi,muru1273,Murupi,mqw,Papunesia,-5.0245,145.606,Nuclear Trans New Guinea,Zgraggen1980MA
+musak,musak,musa1266,Aisi,mmq,Papunesia,-5.37407,145.197,Nuclear Trans New Guinea,Zgraggen1980SA
+musar,musar,musa1265,Musar,mmi,Papunesia,-4.70258,145.413,Nuclear Trans New Guinea,Zgraggen1980NA
+nake,nake,nake1240,Nake,nbk,Papunesia,-5.09087,145.655,Nuclear Trans New Guinea,Zgraggen1980MA
+nend,nend,nend1239,Nend,anh,Papunesia,-5.04271,144.886,Nuclear Trans New Guinea,Zgraggen1980SA
+nobonob,nobonob,nobo1238,Nobonob,gaw,Papunesia,-5.06952,145.712,Nuclear Trans New Guinea,Zgraggen1980MA
+ogea,ogea,ogea1238,Ogea,eri,Papunesia,-5.37766,145.71,Nuclear Trans New Guinea,Zgraggen1980RC
+pal,pal,pall1244,Pal,abw,Papunesia,-4.756,145.24,Nuclear Trans New Guinea,Zgraggen1980MA
+pamosu,pamosu,pamo1253,Pamosu,hih,Papunesia,-4.69874,145.288,Nuclear Trans New Guinea,Zgraggen1980RC
+panim,panim,pani1258,Panim,pnr,Papunesia,-5.21388,145.752,Nuclear Trans New Guinea,Zgraggen1980MA
 parawen,parawen,para1207,Parawen,,,,,,Zgraggen1980NA
-paynamar,paynamar,payn1244,Manat,,,,,,Zgraggen1980SA
-pulabu,pulabu,pula1267,Pulabu,,,,,,Zgraggen1980RC
-rapting,rapting,rapt1240,Rapting,,,,,,Zgraggen1980MA
-rempi,rempi,remp1241,Rempi,,,,,,Zgraggen1980MA
-rerau,rerau,rera1240,Rerau,,,,,,Zgraggen1980RC
-saep,saep,saep1240,Saep,,,,,,Zgraggen1980RC
-sam,sam,samm1244,Sam,,,,,,Zgraggen1980RC
-samosa,samosa,samo1306,Samosa,,,,,,Zgraggen1980MA
-saruga,saruga,saru1243,Saruga,,,,,,Zgraggen1980MA
-sausi,sausi,saus1246,Sausi,,,,,,Zgraggen1980RC
-sihan,sihan,siha1245,Sihan,,,,,,Zgraggen1980MA
-sileibi,sileibi,sile1255,Sileibi,,,,,,Zgraggen1980SA
-silopi,silopi,silo1240,Silopi,,,,,,Zgraggen1980MA
-sinsauru,sinsauru,sins1241,Sinsauru,,,,,,Zgraggen1980RC
-siroi,siroi,siro1249,Siroi,,,,,,Zgraggen1980RC
-sop,sop,sopp1247,Sop,,,,,,Zgraggen1980RC
-sumau,sumau,suma1270,Sumau,,,,,,Zgraggen1980RC
-tauya,tauya,tauy1241,Tauya,,,,,,Zgraggen1980SA
-ukuriguma,ukuriguma,ukur1240,Ukuriguma,,,,,,Zgraggen1980NA
-urigina,urigina,urig1240,Urigina,,,,,,Zgraggen1980RC
-usan,usan,usan1239,Usan,,,,,,Zgraggen1980MA
-utarmbung,utarmbung,utar1238,Utarmbung,,,,,,Zgraggen1980SA
-utu,utu,utuu1240,Utu,,,,,,Zgraggen1980MA
-uya,uya,uyaa1238,Uya,,,,,,Zgraggen1980RC
-uyajitaya,uyajitaya,dudu1240,Duduela,,,,,,Zgraggen1980RC
-wadaginam,wadaginam,wada1263,Wadaginam,,,,,,Zgraggen1980SA
-wagi,wagi,wagi1249,Wagi (Papua New Guinea),,,,,,Zgraggen1980MA
-wamas,wamas,wama1247,Wamas,,,,,,Zgraggen1980MA
-wanambre,wanambre,wana1269,Wanambre,,,,,,Zgraggen1980NA
-waskia,waskia,wask1241,Waskia,,,,,,Zgraggen1980NA
-watiwa,watiwa,dump1243,Dumpu,,,,,,Zgraggen1980RC
-waube,waube,kwat1244,Kwato,,,,,,Zgraggen1980RC
-yaben,yaben,yabe1255,Yaben,,,,,,Zgraggen1980NA
-yabong,yabong,yabo1240,Yabong,,,,,,Zgraggen1980RC
-yangulam,yangulam,yang1298,Yangulam,,,,,,Zgraggen1980RC
-yarawata,yarawata,yara1250,Yarawata,,,,,,Zgraggen1980NA
-yoidik,yoidik,yoid1240,Yoidik,,,,,,Zgraggen1980MA
+paynamar,paynamar,payn1244,Manat,pmr,Papunesia,-4.94303,144.879,Nuclear Trans New Guinea,Zgraggen1980SA
+pulabu,pulabu,pula1267,Pulabu,pup,Papunesia,-5.59558,145.738,Nuclear Trans New Guinea,Zgraggen1980RC
+rapting,rapting,rapt1240,Rapting,rpt,Papunesia,-4.99351,145.671,Nuclear Trans New Guinea,Zgraggen1980MA
+rempi,rempi,remp1241,Rempi,rmp,Papunesia,-5.02487,145.782,Nuclear Trans New Guinea,Zgraggen1980MA
+rerau,rerau,rera1240,Rerau,rea,Papunesia,-5.51361,145.716,Nuclear Trans New Guinea,Zgraggen1980RC
+saep,saep,saep1240,Saep,spd,Papunesia,-5.64812,146.078,Nuclear Trans New Guinea,Zgraggen1980RC
+sam,sam,samm1244,Sam,snx,Papunesia,-5.55572,145.813,Nuclear Trans New Guinea,Zgraggen1980RC
+samosa,samosa,samo1306,Samosa,swm,Papunesia,-5.01391,145.537,Nuclear Trans New Guinea,Zgraggen1980MA
+saruga,saruga,saru1243,Saruga,sra,Papunesia,-5.08824,145.578,Nuclear Trans New Guinea,Zgraggen1980MA
+sausi,sausi,saus1246,Sausi,ssj,Papunesia,-5.6873,145.492,Nuclear Trans New Guinea,Zgraggen1980RC
+sihan,sihan,siha1245,Sihan,snr,Papunesia,-5.28029,145.574,Nuclear Trans New Guinea,Zgraggen1980MA
+sileibi,sileibi,sile1255,Sileibi,sbq,Papunesia,-4.98243,145.225,Nuclear Trans New Guinea,Zgraggen1980SA
+silopi,silopi,silo1240,Silopi,xsp,Papunesia,-5.12302,145.586,Nuclear Trans New Guinea,Zgraggen1980MA
+sinsauru,sinsauru,sins1241,Sinsauru,snz,Papunesia,-5.64336,145.599,Nuclear Trans New Guinea,Zgraggen1980RC
+siroi,siroi,siro1249,Siroi,ssd,Papunesia,-5.52893,145.994,Nuclear Trans New Guinea,Zgraggen1980RC
+sop,sop,sopp1247,Sop,urw,Papunesia,-5.49605,145.361,Nuclear Trans New Guinea,Zgraggen1980RC
+sumau,sumau,suma1270,Sumau,six,Papunesia,-5.48556,145.474,Nuclear Trans New Guinea,Zgraggen1980RC
+tauya,tauya,tauy1241,Tauya,tya,Papunesia,-5.74255,145.366,Nuclear Trans New Guinea,Zgraggen1980SA
+ukuriguma,ukuriguma,ukur1240,Ukuriguma,ukg,Papunesia,-4.94407,145.514,Nuclear Trans New Guinea,Zgraggen1980NA
+urigina,urigina,urig1240,Urigina,urg,Papunesia,-5.58982,145.507,Nuclear Trans New Guinea,Zgraggen1980RC
+usan,usan,usan1239,Usan,wnu,Papunesia,-4.84265,145.362,Nuclear Trans New Guinea,Zgraggen1980MA
+utarmbung,utarmbung,utar1238,Utarmbung,omo,Papunesia,-4.82756,144.924,Nuclear Trans New Guinea,Zgraggen1980SA
+utu,utu,utuu1240,Utu,utu,Papunesia,-5.16422,145.544,Nuclear Trans New Guinea,Zgraggen1980MA
+uya,uya,uyaa1238,Uya,usu,Papunesia,-5.32246,145.47,Nuclear Trans New Guinea,Zgraggen1980RC
+uyajitaya,uyajitaya,dudu1240,Duduela,duk,Papunesia,-5.43119,145.642,Nuclear Trans New Guinea,Zgraggen1980RC
+wadaginam,wadaginam,wada1263,Wadaginam,wdg,Papunesia,-4.52754,144.972,Nuclear Trans New Guinea,Zgraggen1980SA
+wagi,wagi,wagi1249,Wagi (Papua New Guinea),fad,Papunesia,-5.17834,145.726,Nuclear Trans New Guinea,Zgraggen1980MA
+wamas,wamas,wama1247,Wamas,wmc,Papunesia,-4.97757,145.541,Nuclear Trans New Guinea,Zgraggen1980MA
+wanambre,wanambre,wana1269,Wanambre,wnb,Papunesia,-4.78822,145.419,Nuclear Trans New Guinea,Zgraggen1980NA
+waskia,waskia,wask1241,Waskia,wsk,Papunesia,-4.57978,145.979,Nuclear Trans New Guinea,Zgraggen1980NA
+watiwa,watiwa,dump1243,Dumpu,wtf,Papunesia,-5.82002,145.655,Nuclear Trans New Guinea,Zgraggen1980RC
+waube,waube,kwat1244,Kwato,kop,Papunesia,-5.53799,145.629,Nuclear Trans New Guinea,Zgraggen1980RC
+yaben,yaben,yabe1255,Yaben,ybm,Papunesia,-4.90868,145.361,Nuclear Trans New Guinea,Zgraggen1980NA
+yabong,yabong,yabo1240,Yabong,ybo,Papunesia,-5.61718,146.2065,Nuclear Trans New Guinea,Zgraggen1980RC
+yangulam,yangulam,yang1298,Yangulam,ynl,Papunesia,-5.52697,145.858,Nuclear Trans New Guinea,Zgraggen1980RC
+yarawata,yarawata,yara1250,Yarawata,yrw,Papunesia,-4.93943,145.454,Nuclear Trans New Guinea,Zgraggen1980NA
+yoidik,yoidik,yoid1240,Yoidik,ydk,Papunesia,-4.94044,145.758,Nuclear Trans New Guinea,Zgraggen1980MA

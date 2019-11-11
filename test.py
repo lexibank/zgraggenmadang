@@ -22,9 +22,7 @@ def test_languages(cldf_dataset):
 
 
 def test_parameters(cldf_dataset):
-    f = [
-        f for f in cldf_dataset["ParameterTable"] if f["ID"] == "16_siblingdifferentsexyounger"
-    ]
+    f = [f for f in cldf_dataset["ParameterTable"] if f["ID"] == "16_siblingdifferentsexyounger"]
     assert len(f) == 1
     assert f[0]["Name"] == "sibling different sex, younger"
     assert f[0]["Concepticon_ID"] == "3040"
