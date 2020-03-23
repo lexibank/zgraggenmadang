@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > Z'graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics.
 
+This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+
 
 Conceptlists in Concepticon:
 - [Zgraggen-1980-380](https://concepticon.clld.org/contributions/Zgraggen-1980-380)
@@ -26,3 +28,12 @@ Conceptlists in Concepticon:
 - **Tokens:** 154,073
 - **Segments:** 150 (0 BIPA errors, 0 CTLS sound class errors, 150 CLTS modified)
 - **Inventory size (avg):** 39.78
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+Tiago Tresoldi | @tresoldi | maintainer
+Mattis List | @lingulist | maintainer
+
+

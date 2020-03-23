@@ -158,7 +158,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 207_signaldrum,signal drum,908,DRUM
 208_knife,knife,1352,KNIFE
 209_woodenplate,wooden plate,480,PLATE
-210_saucepanclaypot,saucepan (clay pot),1462,POT
+210_saucepanclaypot,saucepan (clay pot),3653,COOKING POT
 212_netbag,netbag,293,NETBAG
 213_loincloth,loincloth,1965,LOINCLOTH
 214_basket,basket,1539,BASKET
@@ -281,7 +281,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 365_take,take,1749,TAKE
 366a_tie,tie,1917,TIE
 366b_fasten,fasten,1094,FASTEN
-367_callout,call out,1084,CALL
+367_callout,call out,,
 368_cry,cry,1839,CRY
 369_laugh,laugh,1355,LAUGH
 370a_singsing,singsing,131,FESTIVAL
