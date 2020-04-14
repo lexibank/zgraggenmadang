@@ -1,4 +1,4 @@
-# Madang Comparative Wordlists
+# CLDF dataset derived from Z'graggen's "Madang Comparative Wordlists" from 1980.
 
 Cite the source dataset as
 
@@ -31,9 +31,10 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name | GitHub user | Role
---- | --- | ---
-Tiago Tresoldi | @tresoldi | maintainer
-Mattis List | @lingulist | maintainer
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Tiago Tresoldi     | @tresoldi       | maintainer                           | Author
+Mattis List        | @lingulist      | maintainer                           | Author
+Simon J. Greenhill | @SimonGreenhill | maintainer                           | Author
 
 
