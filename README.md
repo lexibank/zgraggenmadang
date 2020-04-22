@@ -1,4 +1,4 @@
-# CLDF dataset derived from Z'graggen's "Madang Comparative Wordlists" from 1980.
+# CLDF dataset derived from Z'graggen's "Madang Comparative Wordlists" from 1980
 
 Cite the source dataset as
 
