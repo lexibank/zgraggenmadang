@@ -1,8 +1,10 @@
-# Madang Comparative Wordlists
+# CLDF dataset derived from Z'graggen's "Madang Comparative Wordlists" from 1980
 
 Cite the source dataset as
 
 > Z'graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics.
+
+This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
 
 Conceptlists in Concepticon:
@@ -26,3 +28,13 @@ Conceptlists in Concepticon:
 - **Tokens:** 154,073
 - **Segments:** 150 (0 BIPA errors, 0 CTLS sound class errors, 150 CLTS modified)
 - **Inventory size (avg):** 39.78
+
+# Contributors
+
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Tiago Tresoldi     | @tresoldi       | maintainer                           | Author
+Mattis List        | @lingulist      | maintainer                           | Author
+Simon J. Greenhill | @SimonGreenhill | maintainer                           | Author
+
+
