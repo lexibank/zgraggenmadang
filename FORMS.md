@@ -13,11 +13,11 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Pairs of strings that should be recognized as brackets, specified as `dict` mapping opening string to closing string
 - `separators`: `(';', '/', ',')`
   Iterable of single character tokens that should be recognized as word separator
-- `missing_data`: `('?', '-')`
+- `missing_data`: `['-0̸-', '(ya)-', 'xx kater', 'Vb -0̸-', '-', '0̸', '0-', '?', '-', '- ', '0̸-', '_', '-0̸']`
   Iterable of strings that are used to mark missing data
 - `strip_inside_brackets`: `True`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
-- `replacements`: `[]`
+- `replacements`: `[(' ', '_'), ('_+_give', '')]`
   List of pairs (`source`, `target`) used to replace occurrences of `source` in formswith `target` (before stripping content in brackets)
 - `first_form_only`: `False`
   Flag signaling whether at most one form should be returned from `split` - effectively ignoring any spelling variants, etc.

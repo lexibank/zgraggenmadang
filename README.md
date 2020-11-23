@@ -21,13 +21,13 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 100
 - **Concepts:** 333
-- **Lexemes:** 34,405
+- **Lexemes:** 34,285
 - **Sources:** 4
-- **Synonymy:** 1.13
+- **Synonymy:** 1.12
 - **Invalid lexemes:** 0
-- **Tokens:** 154,073
-- **Segments:** 150 (0 BIPA errors, 0 CTLS sound class errors, 150 CLTS modified)
-- **Inventory size (avg):** 39.78
+- **Tokens:** 153,754
+- **Segments:** 151 (0 BIPA errors, 0 CTLS sound class errors, 151 CLTS modified)
+- **Inventory size (avg):** 39.81
 
 # Contributors
 

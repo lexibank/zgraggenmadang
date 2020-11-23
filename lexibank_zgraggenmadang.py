@@ -2,7 +2,7 @@ from pathlib import Path
 
 import attr
 from clldutils.misc import slug
-from pylexibank import Language
+from pylexibank import Language, FormSpec
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.util import progressbar
 
@@ -150,6 +150,16 @@ class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "zgraggenmadang"
     language_class = CustomLanguage
+    form_spec = FormSpec(
+            missing_data=[
+                "-0̸-",
+                "(ya)-",
+                "xx kater",
+                "Vb -0̸-",
+                "-", "0̸",
+                "0-", "?", "-", "- ", "0̸-", "_", "-0̸"],
+            replacements=[(" ", "_"), ("_+_give", "")]
+            )
 
     def cmd_download(self, args):
         pass
