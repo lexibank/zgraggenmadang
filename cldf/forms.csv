@@ -15348,7 +15348,7 @@ mawak-418_my-1,138979,mawak,418_my,yɛ-,yɛ-,j ɛ,,Zgraggen1980NA,,,^ y ɛ -$,de
 mawak-215_one-1,143883,mawak,215_one,katiga,katiga,k a t i g a,,Zgraggen1980NA,,,^ k a t i g a $,default
 mawak-85_skin-1,140671,mawak,85_skin,fuku,fuku,f u k u,,Zgraggen1980NA,,,^ f u k u $,default
 mawak-265_where-1,144884,mawak,265_where,kɛmɛtɛna,kɛmɛtɛna,k ɛ m ɛ t ɛ n a,,Zgraggen1980NA,,,^ k ɛ m ɛ t ɛ n a $,default
-mawak-2_woman-1,138610,mawak,2_woman,mande  upiab,mande__upiab,m a n d e _ u p i a b,,Zgraggen1980NA,,,^ m a n d e __ u p i a b $,default
+mawak-2_woman-1,138610,mawak,2_woman,mande  upiab,mande__upiab,m a n d e + u p i a b,,Zgraggen1980NA,,,^ m a n d e __ u p i a b $,default
 mawak-374_dream-1,147580,mawak,374_dream,inab it,inab_it,i n a b + i t,,Zgraggen1980NA,,,^ i n a b _ i t $,default
 mawak-129_betelpeppervine-1,141803,mawak,129_betelpeppervine,pesab,pesab,p e s a b,,Zgraggen1980NA,,,^ p e s a b $,default
 mawak-263_who-1,144826,mawak,263_who,mɛa,mɛa,m ɛ a,,Zgraggen1980NA,,,^ m ɛ a $,default
@@ -15749,7 +15749,7 @@ miani-392_tanket-1,142622,miani,392_tanket,mwanub,mwanub,mʷ a n u b,,Zgraggen19
 miani-380_besick-1,147628,miani,380_besick,buira wɛ-,buira_wɛ-,b u i r a + w ɛ,,Zgraggen1980NA,,,^ b u i r a _ w ɛ -$,default
 miani-406_sugar-1,141942,miani,406_sugar,ay,ay,a j,,Zgraggen1980NA,,,^ a y $,default
 miani-319_give-1,146094,miani,319_give,-nag-,-nag-,n a g,,Zgraggen1980NA,,,^- n a g -$,default
-miani-10_girl-1,138721,miani,10_girl,nanum  baras,nanum__baras,n a n u m _ b a r a s,,Zgraggen1980NA,,,^ n a n u m __ b a r a s $,default
+miani-10_girl-1,138721,miani,10_girl,nanum  baras,nanum__baras,n a n u m + b a r a s,,Zgraggen1980NA,,,^ n a n u m __ b a r a s $,default
 miani-302_die-1,145733,miani,302_die,um,um,u m,,Zgraggen1980NA,,,^ u m $,default
 miani-92_shadow-1,140864,miani,92_shadow,-gugun,-gugun,g u g u n,,Zgraggen1980NA,,,^- g u g u n $,default
 miani-313_falltree-1,145939,miani,313_falltree,wʌi-,wʌi-,w ʌ i,,Zgraggen1980NA,,,^ w ʌ i -$,default
@@ -16986,7 +16986,7 @@ pamosu-137_yam-1,142031,pamosu,137_yam,mʌr,mʌr,m ʌ r,,Zgraggen1980RC,,,^ m ʌ
 pamosu-282_there-1,145274,pamosu,282_there,ɛyɛ,ɛyɛ,ɛ j ɛ,,Zgraggen1980RC,,,^ ɛ y ɛ $,default
 pamosu-157_stick-1,142512,pamosu,157_stick,yoʌ,yoʌ,j o ʌ,,Zgraggen1980RC,,,^ y o ʌ $,default
 pamosu-309_run-1,145887,pamosu,309_run,bumbuɛp awi,bumbuɛp_awi,b u m b u ɛ p + a w i,,Zgraggen1980RC,,,^ b u m b u ɛ p _ a w i $,default
-pamosu-2_woman-1,138611,pamosu,2_woman,mande  epiop,mande__epiop,m a n d e _ e p i o p,,Zgraggen1980RC,,,^ m a n d e __ e p i o p $,default
+pamosu-2_woman-1,138611,pamosu,2_woman,mande  epiop,mande__epiop,m a n d e + e p i o p,,Zgraggen1980RC,,,^ m a n d e __ e p i o p $,default
 pamosu-304_go-1,145801,pamosu,304_go,itiw-,itiw-,i t i w,,Zgraggen1980RC,,,^ i t i w -$,default
 pamosu-347_fillupwater-1,142252,pamosu,347_fillupwater,un-,un-,u n,,Zgraggen1980RC,,,^ u n -$,default
 pamosu-277_before-1,145132,pamosu,277_before,simbɔp,simbɔp,s i m b ɔ p,,Zgraggen1980RC,,,^ s i m b ɔ p $,default
@@ -19077,7 +19077,7 @@ yaben-319_give-2,146116,yaben,319_give,-ut-,-ut-,u t,,Zgraggen1980NA,,,^- u t -$
 yaben-144_tree-1,142230,yaben,144_tree,nʌ:mu,nʌ:mu,n ʌː m u,,Zgraggen1980NA,,,^ n ʌ: m u $,default
 yaben-191_rain-1,143337,yaben,191_rain,a:tu,a:tu,aː t u,,Zgraggen1980NA,,,^ a: t u $,default
 yaben-9_boy-1,138709,yaben,9_boy,waw moya,waw_moya,w a w + m o j a,,Zgraggen1980NA,,,^ w a w _ m o y a $,default
-yaben-125_possumground-1,141699,yaben,125_possumground,atu  wai,atu__wai,a t u _ w a i,,Zgraggen1980NA,,,^ a t u __ w a i $,default
+yaben-125_possumground-1,141699,yaben,125_possumground,atu  wai,atu__wai,a t u + w a i,,Zgraggen1980NA,,,^ a t u __ w a i $,default
 yaben-88_hair-1,140765,yaben,88_hair,imu,imu,i m u,,Zgraggen1980NA,,,^ i m u $,default
 yaben-268b_daybreak-1,144970,yaben,268b_daybreak,ulugialʌmot,ulugialʌmot,u l u g i a l ʌ m o t,,Zgraggen1980NA,,,^ u l u g i a l ʌ m o t $,default
 yaben-404_workn-1,144721,yaben,404_workn,awat-,awat-,a w a t,,Zgraggen1980NA,,,^ a w a t -$,default
