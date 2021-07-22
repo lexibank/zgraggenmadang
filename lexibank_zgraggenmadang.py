@@ -151,15 +151,23 @@ class Dataset(BaseDataset):
     id = "zgraggenmadang"
     language_class = CustomLanguage
     form_spec = FormSpec(
-            missing_data=[
-                "-0̸-",
-                "(ya)-",
-                "xx kater",
-                "Vb -0̸-",
-                "-", "0̸",
-                "0-", "?", "-", "- ", "0̸-", "_", "-0̸"],
-            replacements=[(" ", "_"), ("_+_give", "")]
-            )
+        missing_data=[
+            "-0̸-",
+            "(ya)-",
+            "xx kater",
+            "Vb -0̸-",
+            "-",
+            "0̸",
+            "0-",
+            "?",
+            "-",
+            "- ",
+            "0̸-",
+            "_",
+            "-0̸",
+        ],
+        replacements=[(" ", "_"), ("_+_give", "")],
+    )
 
     def cmd_download(self, args):
         pass

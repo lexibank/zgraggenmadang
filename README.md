@@ -1,10 +1,18 @@
 # CLDF dataset derived from Z'graggen's "Madang Comparative Wordlists" from 1980
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/zgraggenmadang/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/zgraggenmadang/actions?query=workflow%3ACLDF-validation)
 
-> Z'graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics.
+## How to cite
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+If you use these data please cite
+- the original source
+  > Z'graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
+
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -12,7 +20,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/zgraggenmadang.svg?branch=master)](https://travis-ci.org/lexibank/zgraggenmadang)
+[![CLDF validation](https://github.com/lexibank/zgraggenmadang/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/zgraggenmadang/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -31,10 +39,18 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name               | GitHub user     | Description                          | Role
----                | ---             | ---                                  | ---
-Tiago Tresoldi     | @tresoldi       | maintainer                           | Author
-Mattis List        | @lingulist      | maintainer                           | Author
-Simon J. Greenhill | @SimonGreenhill | maintainer                           | Author
+Name                 | GitHub user     | Description                          | Role
+---                  | ---             | ---                                  | ---
+John Anton Z'graggen |                 |                                      | Author
+Tiago Tresoldi       | @tresoldi       | maintainer                           | Other
+Mattis List          | @lingulist      | maintainer                           | Other
+Simon J. Greenhill   | @SimonGreenhill | maintainer                           | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

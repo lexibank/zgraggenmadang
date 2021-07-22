@@ -7,16 +7,23 @@
     ],
     "creators": [
         {
-            "name": "Tiago Tresoldi"
-        },
-        {
-            "name": "Mattis List"
-        },
-        {
-            "name": "Simon J. Greenhill"
+            "name": "John Anton Z'graggen"
         }
     ],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
@@ -25,6 +32,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Z&#x27;graggen, J A. (1980) A comparative word list of the Northern Adelbert Range Languages, Madang Province, Papua New Guinea. Canberra: Pacific Linguistics.</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-4.0"
+        "id": "CC-BY-4.0"
     }
 }
