@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/zgraggenmadang",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0-10-g56b6445",
+            "dc:created": "v4.0-2-g9fad738",
             "dc:title": "Repository"
         },
         {
@@ -45,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.9.6"
         },
         {
             "dc:title": "python-packages",
