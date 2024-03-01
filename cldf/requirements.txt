@@ -17,7 +17,6 @@ idna==3.6
 iniconfig==2.0.0
 isodate==0.6.1
 jsonschema==4.21.1
--e git+https://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@github.com/lexibank/zgraggenmadang@fd9696ec78fced482d7a10393c8bee4dee9c81a5#egg=lexibank_zgraggenmadang
 lingpy==2.6.13
 lxml==5.1.0
 Markdown==3.5.2
