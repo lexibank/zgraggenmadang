@@ -13,7 +13,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 15_siblingdifferentsexolder,"sibling different sex, older",3039,DIFFERENT-SEX OLDER SIBLING
 16_siblingdifferentsexyounger,"sibling different sex, younger",3040,DIFFERENT-SEX YOUNGER SIBLING
 24_i,I,1209,I
+25_thou,thou,1215,THOU
+26_he,he,1211,HE
 27_we,we,1212,WE
+28_ye,ye,1213,YOU
 29_they,they,817,THEY
 33_head,head,1256,HEAD
 35_brains,brains,1583,BRAIN
@@ -40,6 +43,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 65_thumb,thumb,1781,THUMB
 66_fingernail,fingernail,1258,FINGERNAIL
 67_leg,leg,1297,LEG
+68_upperleg,upper leg,,
 70_calfofleg,calf (of leg),498,CALF OF LEG
 71_knee,knee,1371,KNEE
 72_belly,belly,1251,BELLY
@@ -65,6 +69,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 95_vulva,vulva,1837,VULVA
 96_bird,bird,937,BIRD
 98_wing,wing,1257,WING
+99_tailofbird,tail (of bird),,
 100_egg,egg,744,EGG
 101_cassowary,cassowary,466,CASSOWARY
 102_chickentame,chicken (tame),1318,CHICKEN
@@ -94,14 +99,19 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 128_betelnut,betelnut,217,BETELNUT
 129_betelpeppervine,betel pepper vine,177,BETEL PEPPER VINE
 130_lime,lime,982,LIME (FRUIT)
+131_alangalanggrass,alang-alang grass,464,ALANG-ALANG GRASS
 132_pandanus,pandanus,469,PANDANUS
+133_potato,potato,593,POTATO
 134_sugarcane,sugar cane,146,SUGAR CANE
 135_taro,taro,351,TARO
 136_singaporetaro,singapore taro,,
 137_yam,yam,410,YAM
+138_yamdiscoreaesculenta,yam (discorea esculenta),410,YAM
 139_tobacco,tobacco,974,TOBACCO
 140_sago,sago,2270,SAGO
 141_coconuttree,coconut tree,147,COCONUT TREE
+142_ripecoconut,ripe coconut,3035,RIPE COCONUT
+143_greencoconut,green coconut,3034,GREEN COCONUT
 144_tree,tree,906,TREE
 148_fruit,fruit,1507,FRUIT
 149_sap,sap,345,SAP
@@ -155,6 +165,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 203_comb,comb,1475,COMB
 204_grassskirt,grass skirt,328,GRASS-SKIRT
 205_gstring,G-string,468,G-STRING
+206_handdrum,hand drum,111,DRUMMING
 207_signaldrum,signal drum,908,DRUM
 208_knife,knife,1352,KNIFE
 209_woodenplate,wooden plate,480,PLATE
@@ -185,6 +196,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 242_many,many,1198,MANY
 243_few,few,1242,FEW
 244_new,new,1231,NEW
+245_oldofobjects,old (of objects),1229,OLD
 246_ripe,ripe,178,RIPE
 248_sharp,sharp,1396,SHARP
 250_straight,straight,1404,STRAIGHT
@@ -218,11 +230,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 289_quickly,quickly,1631,FAST
 290_slowly,slowly,701,SLOW
 291_yes,yes,1268,YES
+292_no,no,1269,NO
 293_always,always,1676,ALWAYS
 296_be,be,1579,BE
 297_sleep,sleep,1585,SLEEP
 298_sitdown,sit down,1649,SIT DOWN
 299_stand,stand,1442,STAND
+300_standup,stand up,570,STAND UP
 301_cough,cough,879,COUGH
 302_die,die,1494,DIE
 303_come,come,1446,COME
@@ -239,6 +253,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 318b_thundering,thundering,1150,THUNDER
 318c_lightning,lightning,1654,LIGHTNING
 319_give,give,1447,GIVE
+320_talkitr,talk (itr),1115,SPEECH
 321_talktotr,talk to (tr),1623,SPEAK
 322_watchitr,watch (itr),1819,LOOK
 323_seetr,see (tr),1409,SEE
@@ -246,6 +261,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 325_batheitr,bathe (itr),138,BATHE
 326_washtr,wash (tr),1453,WASH
 327_bite,bite,1403,BITE
+328_carryonshoulder,carry (on shoulder),413,CARRY ON SHOULDER
 329_carryonback,carry (on back),465,CARRY ON BACK
 332_blowonfire,blow (on fire),176,BLOW (WITH MOUTH)
 333_breakacross,break (across),2558,BREAK (CLEAVE)

@@ -27,8 +27,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 100
-- **Concepts:** 333
+- **Varieties:** 100 (linked to 100 different Glottocodes)
+- **Concepts:** 333 (linked to 310 different Concepticon concept sets)
 - **Lexemes:** 34,285
 - **Sources:** 4
 - **Synonymy:** 1.12
@@ -42,9 +42,9 @@ Conceptlists in Concepticon:
 Name                 | GitHub user     | Description                          | Role
 ---                  | ---             | ---                                  | ---
 John Anton Z'graggen |                 |                                      | Author
-Tiago Tresoldi       | @tresoldi       | maintainer                           | Other
-Mattis List          | @lingulist      | maintainer                           | Other
-Simon J. Greenhill   | @SimonGreenhill | maintainer                           | Other
+Tiago Tresoldi       | @tresoldi       | helped with profile, code            | Other
+Mattis List          | @lingulist      | maintainer                           | Editor
+Simon J. Greenhill   | @SimonGreenhill | maintainer                           | Editor
 
 
 
